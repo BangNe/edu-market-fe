@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+//import fonts
+@import 'fonts';
+
+//import header
+@import 'header';
+
+// import main layout
+@import 'main_layout';
