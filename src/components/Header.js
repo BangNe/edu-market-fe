@@ -1,8 +1,6 @@
 import { useState } from "react"
 import { NavLink,Link } from "react-router-dom"
 
-import logo from '../assets/img/logo.png'
-
 const Header = () => {
   const [isShowNavMenu, setIsShowNavMenu] = useState(false)
 
@@ -13,7 +11,7 @@ const Header = () => {
           className='header-logo'
           to='/'  
         >
-          <img src={logo} alt='ảnh'/>
+          <img src={'/assets/img/logo.png'} alt='ảnh'/>
         </Link>
         <div className={`header-nav ${isShowNavMenu ? 'show' : ''}`}>
           <NavLink
@@ -23,7 +21,7 @@ const Header = () => {
               `header-nav-item ${isActive ? 'active' : ''}`
             }
           >
-            <span>Home</span>
+            <span>Khóa học</span>
           </NavLink>
           <NavLink
             to='/courses'
@@ -31,7 +29,7 @@ const Header = () => {
               `header-nav-item ${isActive ? 'active' : ''}`
             }
           >
-            <span>courses</span>
+            <span>Yêu thích</span>
           </NavLink>
           <div className="header-nav-item log-in">
             <span>

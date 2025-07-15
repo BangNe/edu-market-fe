@@ -1,0 +1,63 @@
+.filter-box-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    .filter-box-title {
+        font-family: "Open Sans", sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        color: #ed6d20;
+
+        margin-bottom: 10px;
+    }
+
+    .filter-box-btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 12px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+        border-radius: 5px;
+        transition: all 0.3s linear;
+
+        span {
+            font-family: "Open Sans", sans-serif;
+            font-size: 16px;
+            font-weight: 700;
+            color: #111322;
+            text-transform: capitalize;
+        }
+    }
+
+    .filter-box-btn:hover {
+        cursor: pointer;
+        opacity: 0.5;
+    }
+
+    .filter-box-load {
+        display: flex;
+        padding: 20px;
+        width: 40%;
+        height: 30px;
+
+        background: linear-gradient(
+            90deg,
+            #f0f0f0 25%,
+            #e0e0e0 50%,
+            #f0f0f0 75%
+        );
+        background-size: 200% 100%;
+        border-radius: 5px;
+        animation: shimmer 1.5s infinite linear;
+    }
+
+    @keyframes shimmer {
+        0% {
+            background-position: -200% 0;
+        }
+        100% {
+            background-position: 200% 0;
+        }
+    }
+}

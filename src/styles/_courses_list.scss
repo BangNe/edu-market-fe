@@ -1,0 +1,95 @@
+.courses-list-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    width: 100%;
+
+    .courses-list-search {
+        width: 60%;
+        height: 60px;
+    }
+
+    .courses-list-inner {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(200px,1fr));
+        gap: 20px;
+    }
+
+    .courses-list-inner-cart {
+        width: 100%;
+    }
+
+    .courses-list-no-data-wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 20px;
+
+        width: 100%;
+        margin-top: 150px;
+        span {
+            font-size: 100px;
+            color: #ed6d20;
+        }
+
+        p {
+                font-family: "Open Sans", sans-serif;
+                font-size: 16px;
+                font-weight: 400;
+                color: #000000;
+        }
+    }
+}
+
+@media (max-width: 1275px) {
+    .courses-list-wrapper {
+        .courses-list-search {
+            width: 100%;
+        }
+
+        .courses-list-inner {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(200px,1fr));
+            gap: 20px;
+        }
+    }
+}
+
+@media (max-width: 1024px) {
+    .courses-list-wrapper {
+        .courses-list-search {
+            width: 100%;
+        }
+
+        .courses-list-inner {
+            display: grid;
+            grid-template-columns: repeat(3, minmax(200px,1fr));
+            gap: 20px;
+        }
+    }
+}
+
+@media (max-width: 890px) {
+    .courses-list-wrapper {
+        .courses-list-search {
+            width: 100%;
+        }
+
+        .courses-list-inner {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(200px,1fr));
+            gap: 20px;
+        }
+    }
+}
+
+@media (max-width: 767px) {
+    .courses-list-wrapper {
+        .courses-list-inner {
+            display: grid;
+            grid-template-columns: repeat(1, minmax(200px,1fr));
+            gap: 20px;
+        }
+    }
+}

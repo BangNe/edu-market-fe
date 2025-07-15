@@ -144,7 +144,6 @@
 
 @media (max-width: 767px) {
    .header-wrapper {
-    overflow-x: hidden;
         .header-nav {
             position: fixed;
             top: 70px;
@@ -159,16 +158,30 @@
             box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
 
             transform: translateX(100%);
-            pointer-events: none;
             opacity: 0;
+            pointer-events: none;
+
+            // Hiệu ứng chuyển tiếp
             transition: transform 0.3s ease, opacity 0.3s ease;
+            z-index: 2;
         }
 
         .header-nav.show {
             transform: translateX(0);
-            pointer-events: auto;
             opacity: 1;
+            pointer-events: auto;
         }
+
+        @keyframes slideInFromLeft {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
 
         .header-nav-item {
             width: 100%;

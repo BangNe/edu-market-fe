@@ -18,5 +18,35 @@ html, body {
 //import footer
 @import 'footer';
 
+//import import check
+@import 'input_check';
+
+//import filter courses
+@import 'filter_courses';
+
+//import courses list
+@import 'courses_list';
+
+//import filter price range
+@import 'filter_price_range';
+
+//import filter box
+@import 'filter_box';
+
+//import search courses
+@import 'search_courses';
+
+//import courses card
+@import 'course_card';
+
+//import course card load
+@import 'course_card_load';
+
+//import pagination
+@import 'pagination';
+
+//import courses page
+@import 'courses_page';
+
 // import main layout
 @import 'main_layout';

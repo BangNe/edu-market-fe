@@ -1,0 +1,88 @@
+.course-load-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    width: 100%;
+    height: 500px;
+    padding: 16px;
+
+    .course-load-inner {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        
+        width: 100%;
+        height: 100%;
+        padding: 12px;
+    }
+
+    .course-load-img {
+        width: 100%;
+        height: 140px;
+
+        border-radius: 5px;
+    }
+
+    .course-load-name {
+        width: 100%;
+        height: 56px;
+
+        border-radius: 5px;
+    }
+
+    .course-load-info {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .course-load-info-item {
+        width: 40%;
+        height: 23px;
+
+        border-radius: 5px;
+    }
+
+    .course-load-teacher {
+        width: 60px;
+        height: 23px;
+    }
+
+    .course-load-btn-wrapper {
+        display: flex;
+        align-items: center;
+
+        width: 100%;
+        height: 76px;
+        padding: 20px 12px;
+    }
+
+    .course-load-btn {
+        width: 40%;
+        height: 36px;
+    }
+
+    .course-load-img,
+    .course-load-name,
+    .course-load-info-item,
+    .course-load-teacher,
+    .course-load-btn {
+        background: linear-gradient(
+            90deg,
+            #f0f0f0 25%,
+            #e0e0e0 50%,
+            #f0f0f0 75%
+        );
+        background-size: 200% 100%;
+        animation: shimmer 1.5s infinite linear;
+    }
+
+    @keyframes shimmer {
+        0% {
+            background-position: -200% 0;
+        }
+        100% {
+            background-position: 200% 0;
+        }
+    }
+}

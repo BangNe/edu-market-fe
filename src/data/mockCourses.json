@@ -1,0 +1,3212 @@
+[
+  {
+    "id": 1,
+    "name": "Toán cơ bản",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng. Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1126348,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 1,
+    "grade": 6,
+    "teacherId": 3,
+    "rating": 3.6,
+    "reviewCount": 150,
+    "enrollment": 1907,
+    "createdAt": "2025-01-03T18:43:07.457483",
+    "lessons": [
+      5,
+      2,
+      6,
+      4
+    ],
+    "durationTime": 3172,
+    "tags": [
+      "cơ bản",
+      "thực hành"
+    ],
+    "isFeatured": true,
+    "teacher": "Phạm Văn C",
+    "category": "Toán",
+    "lessonsCount": 4
+  },
+  {
+    "id": 2,
+    "name": "Tiếng Anh thực hành",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1419017,
+    "image": "/assets/img/img3.jpg",
+    "categoryId": 5,
+    "grade": 7,
+    "teacherId": 6,
+    "rating": 4.8,
+    "reviewCount": 16,
+    "enrollment": 1802,
+    "createdAt": "2024-12-23T18:43:07.457559",
+    "lessons": [
+      6,
+      5,
+      4
+    ],
+    "durationTime": 11416,
+    "tags": [
+      "nâng cao",
+      "cơ bản",
+      "ôn thi",
+      "thực hành"
+    ],
+    "isFeatured": true,
+    "teacher": "Hoàng Thị F",
+    "category": "Anh",
+    "lessonsCount": 3
+  },
+  {
+    "id": 3,
+    "name": "Vật lý tư duy",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1033731,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 2,
+    "grade": 5,
+    "teacherId": 9,
+    "rating": 4.0,
+    "reviewCount": 146,
+    "enrollment": 712,
+    "createdAt": "2025-05-04T18:43:07.457582",
+    "lessons": [
+      2,
+      4,
+      6
+    ],
+    "durationTime": 9896,
+    "tags": [
+      "cơ bản",
+      "đề thi"
+    ],
+    "isFeatured": true,
+    "teacher": "Vũ Văn I",
+    "category": "Lý",
+    "lessonsCount": 3
+  },
+  {
+    "id": 4,
+    "name": "Tiếng Anh tổng hợp",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1287309,
+    "image": "/assets/img/img3.jpg",
+    "categoryId": 5,
+    "grade": 9,
+    "teacherId": 10,
+    "rating": 4.2,
+    "reviewCount": 145,
+    "enrollment": 456,
+    "createdAt": "2025-01-10T18:43:07.457600",
+    "lessons": [
+      1,
+      2,
+      6
+    ],
+    "durationTime": 10538,
+    "tags": [
+      "cấp tốc",
+      "đề thi"
+    ],
+    "isFeatured": false,
+    "teacher": "Đinh Thị J",
+    "category": "Anh",
+    "lessonsCount": 3
+  },
+  {
+    "id": 5,
+    "name": "Toán luyện thi",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1101217,
+    "image": "/assets/img/img3.jpg",
+    "categoryId": 1,
+    "grade": 1,
+    "teacherId": 9,
+    "rating": 4.8,
+    "reviewCount": 80,
+    "enrollment": 944,
+    "createdAt": "2024-07-12T18:43:07.457615",
+    "lessons": [
+      5,
+      4
+    ],
+    "durationTime": 10924,
+    "tags": [
+      "tư duy",
+      "cấp tốc"
+    ],
+    "isFeatured": true,
+    "teacher": "Vũ Văn I",
+    "category": "Toán",
+    "lessonsCount": 2
+  },
+  {
+    "id": 6,
+    "name": "Vật lý phân tích",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 653762,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 2,
+    "grade": 5,
+    "teacherId": 1,
+    "rating": 3.9,
+    "reviewCount": 29,
+    "enrollment": 2001,
+    "createdAt": "2025-05-22T18:43:07.457630",
+    "lessons": [
+      5,
+      6,
+      1
+    ],
+    "durationTime": 15042,
+    "tags": [
+      "nâng cao",
+      "đề thi",
+      "cơ bản"
+    ],
+    "isFeatured": true,
+    "teacher": "Nguyễn Văn A",
+    "category": "Lý",
+    "lessonsCount": 3
+  },
+  {
+    "id": 7,
+    "name": "Sinh học nâng cao",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1333893,
+    "image": "/assets/img/img8.webp",
+    "categoryId": 6,
+    "grade": 1,
+    "teacherId": 4,
+    "rating": 4.1,
+    "reviewCount": 127,
+    "enrollment": 1224,
+    "createdAt": "2025-03-12T18:43:07.457666",
+    "lessons": [
+      6,
+      2
+    ],
+    "durationTime": 5548,
+    "tags": [
+      "tư duy",
+      "vào 10",
+      "ôn thi"
+    ],
+    "isFeatured": true,
+    "teacher": "Trần Thị D",
+    "category": "Sinh",
+    "lessonsCount": 2
+  },
+  {
+    "id": 8,
+    "name": "Hóa học cơ bản",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1103440,
+    "image": "/assets/img/img3.jpg",
+    "categoryId": 3,
+    "grade": 11,
+    "teacherId": 8,
+    "rating": 3.8,
+    "reviewCount": 172,
+    "enrollment": 668,
+    "createdAt": "2025-03-07T18:43:07.457695",
+    "lessons": [
+      4,
+      2,
+      1
+    ],
+    "durationTime": 10999,
+    "tags": [
+      "cơ bản",
+      "tư duy"
+    ],
+    "isFeatured": true,
+    "teacher": "Ngô Thị H",
+    "category": "Hóa",
+    "lessonsCount": 3
+  },
+  {
+    "id": 9,
+    "name": "Tiếng Anh thực hành",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1070346,
+    "image": "/assets/img/img3.jpg",
+    "categoryId": 5,
+    "grade": 10,
+    "teacherId": 3,
+    "rating": 4.3,
+    "reviewCount": 14,
+    "enrollment": 2031,
+    "createdAt": "2025-05-25T18:43:07.457720",
+    "lessons": [
+      4,
+      1,
+      5
+    ],
+    "durationTime": 11234,
+    "tags": [
+      "đề thi",
+      "vào 10"
+    ],
+    "isFeatured": true,
+    "teacher": "Phạm Văn C",
+    "category": "Anh",
+    "lessonsCount": 3
+  },
+  {
+    "id": 10,
+    "name": "Ngữ văn tư duy",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 809808,
+    "image": "/assets/img/img3.jpg",
+    "categoryId": 4,
+    "grade": 10,
+    "teacherId": 3,
+    "rating": 4.0,
+    "reviewCount": 31,
+    "enrollment": 1843,
+    "createdAt": "2025-06-06T18:43:07.457735",
+    "lessons": [
+      6,
+      1,
+      4
+    ],
+    "durationTime": 6829,
+    "tags": [
+      "cơ bản",
+      "ôn thi",
+      "nâng cao",
+      "cấp tốc"
+    ],
+    "isFeatured": true,
+    "teacher": "Phạm Văn C",
+    "category": "Văn",
+    "lessonsCount": 3
+  },
+  {
+    "id": 11,
+    "name": "Tiếng Anh tổng hợp",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 366457,
+    "image": "/assets/img/img5.png",
+    "categoryId": 5,
+    "grade": 11,
+    "teacherId": 10,
+    "rating": 3.9,
+    "reviewCount": 56,
+    "enrollment": 2688,
+    "createdAt": "2024-12-04T18:43:07.457749",
+    "lessons": [
+      5,
+      6
+    ],
+    "durationTime": 2867,
+    "tags": [
+      "học thử",
+      "vào 10",
+      "cấp tốc"
+    ],
+    "isFeatured": true,
+    "teacher": "Đinh Thị J",
+    "category": "Anh",
+    "lessonsCount": 2
+  },
+  {
+    "id": 12,
+    "name": "Ngữ văn luyện thi",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1259493,
+    "image": "/assets/img/img4.jpg",
+    "categoryId": 4,
+    "grade": 6,
+    "teacherId": 2,
+    "rating": 3.7,
+    "reviewCount": 195,
+    "enrollment": 2152,
+    "createdAt": "2024-08-22T18:43:07.457762",
+    "lessons": [
+      4,
+      6,
+      1
+    ],
+    "durationTime": 15451,
+    "tags": [
+      "học thử",
+      "tư duy"
+    ],
+    "isFeatured": false,
+    "teacher": "Nguyễn Thị B",
+    "category": "Văn",
+    "lessonsCount": 3
+  },
+  {
+    "id": 13,
+    "name": "Vật lý phân tích",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1321767,
+    "image": "/assets/img/img1.png",
+    "categoryId": 2,
+    "grade": 4,
+    "teacherId": 5,
+    "rating": 4.9,
+    "reviewCount": 152,
+    "enrollment": 2180,
+    "createdAt": "2024-11-10T18:43:07.457774",
+    "lessons": [
+      5,
+      2
+    ],
+    "durationTime": 16889,
+    "tags": [
+      "đề thi",
+      "vào 10",
+      "cấp tốc",
+      "nâng cao"
+    ],
+    "isFeatured": true,
+    "teacher": "Lê Văn E",
+    "category": "Lý",
+    "lessonsCount": 2
+  },
+  {
+    "id": 14,
+    "name": "Sinh học nâng cao",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 671060,
+    "image": "/assets/img/img5.png",
+    "categoryId": 6,
+    "grade": 8,
+    "teacherId": 9,
+    "rating": 3.6,
+    "reviewCount": 96,
+    "enrollment": 274,
+    "createdAt": "2024-10-02T18:43:07.457787",
+    "lessons": [
+      2,
+      4
+    ],
+    "durationTime": 3882,
+    "tags": [
+      "đề thi",
+      "cấp tốc",
+      "vào 10"
+    ],
+    "isFeatured": false,
+    "teacher": "Vũ Văn I",
+    "category": "Sinh",
+    "lessonsCount": 2
+  },
+  {
+    "id": 15,
+    "name": "Toán cơ bản",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1407016,
+    "image": "/assets/img/img8.webp",
+    "categoryId": 1,
+    "grade": 5,
+    "teacherId": 4,
+    "rating": 3.7,
+    "reviewCount": 55,
+    "enrollment": 2295,
+    "createdAt": "2024-10-12T18:43:07.457800",
+    "lessons": [
+      5,
+      2,
+      6,
+      1
+    ],
+    "durationTime": 2737,
+    "tags": [
+      "vào 10",
+      "đề thi",
+      "thực hành",
+      "cơ bản"
+    ],
+    "isFeatured": true,
+    "teacher": "Trần Thị D",
+    "category": "Toán",
+    "lessonsCount": 4
+  },
+  {
+    "id": 16,
+    "name": "Ngữ văn thực hành",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1124230,
+    "image": "/assets/img/img5.png",
+    "categoryId": 4,
+    "grade": 4,
+    "teacherId": 1,
+    "rating": 4.3,
+    "reviewCount": 59,
+    "enrollment": 230,
+    "createdAt": "2025-03-08T18:43:07.457813",
+    "lessons": [
+      1,
+      5,
+      4
+    ],
+    "durationTime": 16786,
+    "tags": [
+      "tư duy",
+      "đề thi",
+      "ôn thi",
+      "nâng cao"
+    ],
+    "isFeatured": true,
+    "teacher": "Nguyễn Văn A",
+    "category": "Văn",
+    "lessonsCount": 3
+  },
+  {
+    "id": 17,
+    "name": "Vật lý tư duy",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 814257,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 2,
+    "grade": 5,
+    "teacherId": 7,
+    "rating": 4.1,
+    "reviewCount": 87,
+    "enrollment": 337,
+    "createdAt": "2025-06-19T18:43:07.457825",
+    "lessons": [
+      6,
+      4,
+      5,
+      1
+    ],
+    "durationTime": 9294,
+    "tags": [
+      "tư duy",
+      "ôn thi",
+      "đề thi"
+    ],
+    "isFeatured": true,
+    "teacher": "Đặng Văn G",
+    "category": "Lý",
+    "lessonsCount": 4
+  },
+  {
+    "id": 18,
+    "name": "Vật lý tổng hợp",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 925405,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 2,
+    "grade": 9,
+    "teacherId": 8,
+    "rating": 3.7,
+    "reviewCount": 19,
+    "enrollment": 1603,
+    "createdAt": "2024-08-13T18:43:07.457837",
+    "lessons": [
+      2,
+      6,
+      4,
+      1
+    ],
+    "durationTime": 14024,
+    "tags": [
+      "vào 10",
+      "đề thi"
+    ],
+    "isFeatured": false,
+    "teacher": "Ngô Thị H",
+    "category": "Lý",
+    "lessonsCount": 4
+  },
+  {
+    "id": 19,
+    "name": "Toán luyện thi",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 334950,
+    "image": "/assets/img/img5.png",
+    "categoryId": 1,
+    "grade": 5,
+    "teacherId": 8,
+    "rating": 3.9,
+    "reviewCount": 113,
+    "enrollment": 2477,
+    "createdAt": "2025-03-19T18:43:07.457850",
+    "lessons": [
+      6,
+      1,
+      2,
+      5
+    ],
+    "durationTime": 9724,
+    "tags": [
+      "cấp tốc",
+      "nâng cao",
+      "học thử",
+      "đề thi"
+    ],
+    "isFeatured": true,
+    "teacher": "Ngô Thị H",
+    "category": "Toán",
+    "lessonsCount": 4
+  },
+  {
+    "id": 20,
+    "name": "Sinh học phân tích",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1176376,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 6,
+    "grade": 9,
+    "teacherId": 7,
+    "rating": 5.0,
+    "reviewCount": 47,
+    "enrollment": 397,
+    "createdAt": "2024-08-07T18:43:07.457871",
+    "lessons": [
+      4,
+      2
+    ],
+    "durationTime": 3683,
+    "tags": [
+      "nâng cao",
+      "học thử",
+      "cấp tốc",
+      "đề thi"
+    ],
+    "isFeatured": false,
+    "teacher": "Đặng Văn G",
+    "category": "Sinh",
+    "lessonsCount": 2
+  },
+  {
+    "id": 21,
+    "name": "Hóa học nâng cao",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 621973,
+    "image": "/assets/img/img8.webp",
+    "categoryId": 3,
+    "grade": 3,
+    "teacherId": 7,
+    "rating": 4.6,
+    "reviewCount": 79,
+    "enrollment": 2434,
+    "createdAt": "2024-12-08T18:43:07.457885",
+    "lessons": [
+      4,
+      5,
+      6
+    ],
+    "durationTime": 11066,
+    "tags": [
+      "ôn thi",
+      "cơ bản"
+    ],
+    "isFeatured": false,
+    "teacher": "Đặng Văn G",
+    "category": "Hóa",
+    "lessonsCount": 3
+  },
+  {
+    "id": 22,
+    "name": "Tiếng Anh cơ bản",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 796864,
+    "image": "/assets/img/img2.jpg",
+    "categoryId": 5,
+    "grade": 10,
+    "teacherId": 5,
+    "rating": 3.7,
+    "reviewCount": 173,
+    "enrollment": 656,
+    "createdAt": "2025-06-29T18:43:07.457897",
+    "lessons": [
+      5,
+      4,
+      1,
+      6
+    ],
+    "durationTime": 13699,
+    "tags": [
+      "tư duy",
+      "nâng cao",
+      "cấp tốc"
+    ],
+    "isFeatured": false,
+    "teacher": "Lê Văn E",
+    "category": "Anh",
+    "lessonsCount": 4
+  },
+  {
+    "id": 23,
+    "name": "Hóa học thực hành",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1461793,
+    "image": "/assets/img/img5.png",
+    "categoryId": 3,
+    "grade": 11,
+    "teacherId": 9,
+    "rating": 4.2,
+    "reviewCount": 69,
+    "enrollment": 135,
+    "createdAt": "2025-03-09T18:43:07.457909",
+    "lessons": [
+      6,
+      4
+    ],
+    "durationTime": 8300,
+    "tags": [
+      "nâng cao",
+      "cấp tốc"
+    ],
+    "isFeatured": false,
+    "teacher": "Vũ Văn I",
+    "category": "Hóa",
+    "lessonsCount": 2
+  },
+  {
+    "id": 24,
+    "name": "Vật lý tư duy",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1214946,
+    "image": "/assets/img/img4.jpg",
+    "categoryId": 2,
+    "grade": 6,
+    "teacherId": 10,
+    "rating": 4.7,
+    "reviewCount": 198,
+    "enrollment": 2632,
+    "createdAt": "2025-04-03T18:43:07.457922",
+    "lessons": [
+      5,
+      1,
+      6,
+      2
+    ],
+    "durationTime": 12698,
+    "tags": [
+      "thực hành",
+      "tư duy"
+    ],
+    "isFeatured": false,
+    "teacher": "Đinh Thị J",
+    "category": "Lý",
+    "lessonsCount": 4
+  },
+  {
+    "id": 25,
+    "name": "Tiếng Anh tổng hợp",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1426005,
+    "image": "/assets/img/img2.jpg",
+    "categoryId": 5,
+    "grade": 8,
+    "teacherId": 6,
+    "rating": 4.1,
+    "reviewCount": 150,
+    "enrollment": 887,
+    "createdAt": "2024-09-09T18:43:07.457942",
+    "lessons": [
+      1,
+      5
+    ],
+    "durationTime": 8603,
+    "tags": [
+      "cơ bản",
+      "vào 10"
+    ],
+    "isFeatured": true,
+    "teacher": "Hoàng Thị F",
+    "category": "Anh",
+    "lessonsCount": 2
+  },
+  {
+    "id": 26,
+    "name": "Vật lý luyện thi",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 897037,
+    "image": "/assets/img/img8.webp",
+    "categoryId": 2,
+    "grade": 8,
+    "teacherId": 7,
+    "rating": 4.4,
+    "reviewCount": 172,
+    "enrollment": 2362,
+    "createdAt": "2025-05-14T18:43:07.457957",
+    "lessons": [
+      6,
+      5
+    ],
+    "durationTime": 16495,
+    "tags": [
+      "thực hành",
+      "học thử",
+      "cấp tốc"
+    ],
+    "isFeatured": false,
+    "teacher": "Đặng Văn G",
+    "category": "Lý",
+    "lessonsCount": 2
+  },
+  {
+    "id": 27,
+    "name": "Ngữ văn phân tích",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1264216,
+    "image": "/assets/img/img4.jpg",
+    "categoryId": 4,
+    "grade": 9,
+    "teacherId": 1,
+    "rating": 4.8,
+    "reviewCount": 109,
+    "enrollment": 379,
+    "createdAt": "2024-08-14T18:43:07.457970",
+    "lessons": [
+      1,
+      5,
+      6
+    ],
+    "durationTime": 4815,
+    "tags": [
+      "vào 10",
+      "ôn thi",
+      "đề thi",
+      "thực hành"
+    ],
+    "isFeatured": true,
+    "teacher": "Nguyễn Văn A",
+    "category": "Văn",
+    "lessonsCount": 3
+  },
+  {
+    "id": 28,
+    "name": "Vật lý nâng cao",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1398984,
+    "image": "/assets/img/img5.png",
+    "categoryId": 2,
+    "grade": 12,
+    "teacherId": 8,
+    "rating": 3.9,
+    "reviewCount": 118,
+    "enrollment": 2922,
+    "createdAt": "2024-12-14T18:43:07.457983",
+    "lessons": [
+      5,
+      1,
+      6
+    ],
+    "durationTime": 12140,
+    "tags": [
+      "vào 10",
+      "đề thi",
+      "cơ bản",
+      "cấp tốc"
+    ],
+    "isFeatured": true,
+    "teacher": "Ngô Thị H",
+    "category": "Lý",
+    "lessonsCount": 3
+  },
+  {
+    "id": 29,
+    "name": "Vật lý cơ bản",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 745390,
+    "image": "/assets/img/img2.jpg",
+    "categoryId": 2,
+    "grade": 12,
+    "teacherId": 9,
+    "rating": 4.0,
+    "reviewCount": 172,
+    "enrollment": 2747,
+    "createdAt": "2025-06-09T18:43:07.457995",
+    "lessons": [
+      4,
+      1
+    ],
+    "durationTime": 14931,
+    "tags": [
+      "đề thi",
+      "cấp tốc",
+      "ôn thi"
+    ],
+    "isFeatured": false,
+    "teacher": "Vũ Văn I",
+    "category": "Lý",
+    "lessonsCount": 2
+  },
+  {
+    "id": 30,
+    "name": "Vật lý thực hành",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 805778,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 2,
+    "grade": 11,
+    "teacherId": 2,
+    "rating": 4.0,
+    "reviewCount": 176,
+    "enrollment": 2240,
+    "createdAt": "2024-11-23T18:43:07.458019",
+    "lessons": [
+      1,
+      4
+    ],
+    "durationTime": 7667,
+    "tags": [
+      "cấp tốc",
+      "cơ bản",
+      "học thử",
+      "nâng cao"
+    ],
+    "isFeatured": false,
+    "teacher": "Nguyễn Thị B",
+    "category": "Lý",
+    "lessonsCount": 2
+  },
+  {
+    "id": 31,
+    "name": "Ngữ văn tư duy",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1311918,
+    "image": "/assets/img/img4.jpg",
+    "categoryId": 4,
+    "grade": 4,
+    "teacherId": 1,
+    "rating": 4.4,
+    "reviewCount": 181,
+    "enrollment": 2039,
+    "createdAt": "2024-12-19T18:43:07.458032",
+    "lessons": [
+      1,
+      6
+    ],
+    "durationTime": 13804,
+    "tags": [
+      "tư duy",
+      "cấp tốc"
+    ],
+    "isFeatured": true,
+    "teacher": "Nguyễn Văn A",
+    "category": "Văn",
+    "lessonsCount": 2
+  },
+  {
+    "id": 32,
+    "name": "Hóa học tổng hợp",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 786936,
+    "image": "/assets/img/img2.jpg",
+    "categoryId": 3,
+    "grade": 1,
+    "teacherId": 3,
+    "rating": 5.0,
+    "reviewCount": 97,
+    "enrollment": 1761,
+    "createdAt": "2025-06-15T18:43:07.458044",
+    "lessons": [
+      2,
+      4,
+      1,
+      6
+    ],
+    "durationTime": 2796,
+    "tags": [
+      "học thử",
+      "vào 10",
+      "cấp tốc"
+    ],
+    "isFeatured": false,
+    "teacher": "Phạm Văn C",
+    "category": "Hóa",
+    "lessonsCount": 4
+  },
+  {
+    "id": 33,
+    "name": "Sinh học luyện thi",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1198450,
+    "image": "/assets/img/img5.png",
+    "categoryId": 6,
+    "grade": 2,
+    "teacherId": 5,
+    "rating": 4.8,
+    "reviewCount": 124,
+    "enrollment": 2695,
+    "createdAt": "2024-12-26T18:43:07.458057",
+    "lessons": [
+      1,
+      6,
+      2
+    ],
+    "durationTime": 13837,
+    "tags": [
+      "thực hành",
+      "ôn thi"
+    ],
+    "isFeatured": true,
+    "teacher": "Lê Văn E",
+    "category": "Sinh",
+    "lessonsCount": 3
+  },
+  {
+    "id": 34,
+    "name": "Ngữ văn phân tích",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1312916,
+    "image": "/assets/img/img2.jpg",
+    "categoryId": 4,
+    "grade": 6,
+    "teacherId": 3,
+    "rating": 4.4,
+    "reviewCount": 142,
+    "enrollment": 1555,
+    "createdAt": "2024-08-09T18:43:07.458070",
+    "lessons": [
+      4,
+      5,
+      2
+    ],
+    "durationTime": 2925,
+    "tags": [
+      "vào 10",
+      "đề thi"
+    ],
+    "isFeatured": false,
+    "teacher": "Phạm Văn C",
+    "category": "Văn",
+    "lessonsCount": 3
+  },
+  {
+    "id": 35,
+    "name": "Toán nâng cao",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1495095,
+    "image": "/assets/img/img8.webp",
+    "categoryId": 1,
+    "grade": 4,
+    "teacherId": 7,
+    "rating": 4.1,
+    "reviewCount": 118,
+    "enrollment": 2693,
+    "createdAt": "2024-11-08T18:43:07.458082",
+    "lessons": [
+      6,
+      5
+    ],
+    "durationTime": 12219,
+    "tags": [
+      "vào 10",
+      "nâng cao",
+      "ôn thi"
+    ],
+    "isFeatured": false,
+    "teacher": "Đặng Văn G",
+    "category": "Toán",
+    "lessonsCount": 2
+  },
+  {
+    "id": 36,
+    "name": "Tiếng Anh cơ bản",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 486661,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 5,
+    "grade": 2,
+    "teacherId": 2,
+    "rating": 4.4,
+    "reviewCount": 48,
+    "enrollment": 274,
+    "createdAt": "2025-06-23T18:43:07.458095",
+    "lessons": [
+      1,
+      6,
+      5,
+      4
+    ],
+    "durationTime": 7456,
+    "tags": [
+      "ôn thi",
+      "học thử",
+      "vào 10",
+      "thực hành"
+    ],
+    "isFeatured": true,
+    "teacher": "Nguyễn Thị B",
+    "category": "Anh",
+    "lessonsCount": 4
+  },
+  {
+    "id": 37,
+    "name": "Sinh học thực hành",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 934594,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 6,
+    "grade": 12,
+    "teacherId": 2,
+    "rating": 3.5,
+    "reviewCount": 10,
+    "enrollment": 2436,
+    "createdAt": "2024-11-28T18:43:07.458113",
+    "lessons": [
+      6,
+      2,
+      5,
+      4
+    ],
+    "durationTime": 9395,
+    "tags": [
+      "ôn thi",
+      "nâng cao",
+      "cấp tốc"
+    ],
+    "isFeatured": false,
+    "teacher": "Nguyễn Thị B",
+    "category": "Sinh",
+    "lessonsCount": 4
+  },
+  {
+    "id": 38,
+    "name": "Hóa học tư duy",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1045278,
+    "image": "/assets/img/img2.jpg",
+    "categoryId": 3,
+    "grade": 12,
+    "teacherId": 9,
+    "rating": 4.5,
+    "reviewCount": 178,
+    "enrollment": 827,
+    "createdAt": "2024-09-07T18:43:07.458136",
+    "lessons": [
+      6,
+      5,
+      2
+    ],
+    "durationTime": 2218,
+    "tags": [
+      "ôn thi",
+      "đề thi"
+    ],
+    "isFeatured": true,
+    "teacher": "Vũ Văn I",
+    "category": "Hóa",
+    "lessonsCount": 3
+  },
+  {
+    "id": 39,
+    "name": "Toán tổng hợp",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 846606,
+    "image": "/assets/img/img4.jpg",
+    "categoryId": 1,
+    "grade": 10,
+    "teacherId": 3,
+    "rating": 3.8,
+    "reviewCount": 11,
+    "enrollment": 2017,
+    "createdAt": "2024-11-13T18:43:07.458149",
+    "lessons": [
+      6,
+      2,
+      1,
+      5
+    ],
+    "durationTime": 16835,
+    "tags": [
+      "cấp tốc",
+      "học thử"
+    ],
+    "isFeatured": false,
+    "teacher": "Phạm Văn C",
+    "category": "Toán",
+    "lessonsCount": 4
+  },
+  {
+    "id": 40,
+    "name": "Tiếng Anh luyện thi",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1486102,
+    "image": "/assets/img/img8.webp",
+    "categoryId": 5,
+    "grade": 2,
+    "teacherId": 2,
+    "rating": 4.1,
+    "reviewCount": 79,
+    "enrollment": 323,
+    "createdAt": "2024-08-07T18:43:07.458163",
+    "lessons": [
+      2,
+      1
+    ],
+    "durationTime": 8828,
+    "tags": [
+      "vào 10",
+      "đề thi"
+    ],
+    "isFeatured": false,
+    "teacher": "Nguyễn Thị B",
+    "category": "Anh",
+    "lessonsCount": 2
+  },
+  {
+    "id": 41,
+    "name": "Sinh học phân tích",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 449639,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 6,
+    "grade": 8,
+    "teacherId": 4,
+    "rating": 4.5,
+    "reviewCount": 102,
+    "enrollment": 423,
+    "createdAt": "2025-05-10T18:43:07.458175",
+    "lessons": [
+      6,
+      4
+    ],
+    "durationTime": 7963,
+    "tags": [
+      "cấp tốc",
+      "học thử",
+      "nâng cao",
+      "đề thi"
+    ],
+    "isFeatured": true,
+    "teacher": "Trần Thị D",
+    "category": "Sinh",
+    "lessonsCount": 2
+  },
+  {
+    "id": 42,
+    "name": "Hóa học nâng cao",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1476160,
+    "image": "/assets/img/img4.jpg",
+    "categoryId": 3,
+    "grade": 1,
+    "teacherId": 4,
+    "rating": 4.4,
+    "reviewCount": 109,
+    "enrollment": 1649,
+    "createdAt": "2024-09-08T18:43:07.458188",
+    "lessons": [
+      6,
+      1
+    ],
+    "durationTime": 11645,
+    "tags": [
+      "nâng cao",
+      "đề thi",
+      "học thử"
+    ],
+    "isFeatured": true,
+    "teacher": "Trần Thị D",
+    "category": "Hóa",
+    "lessonsCount": 2
+  },
+  {
+    "id": 43,
+    "name": "Toán cơ bản",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1320057,
+    "image": "/assets/img/img4.jpg",
+    "categoryId": 1,
+    "grade": 5,
+    "teacherId": 4,
+    "rating": 4.2,
+    "reviewCount": 22,
+    "enrollment": 2597,
+    "createdAt": "2025-05-01T18:43:07.458205",
+    "lessons": [
+      6,
+      1,
+      5,
+      4
+    ],
+    "durationTime": 17129,
+    "tags": [
+      "vào 10",
+      "đề thi",
+      "cơ bản"
+    ],
+    "isFeatured": false,
+    "teacher": "Trần Thị D",
+    "category": "Toán",
+    "lessonsCount": 4
+  },
+  {
+    "id": 44,
+    "name": "Vật lý thực hành",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 786970,
+    "image": "/assets/img/img3.jpg",
+    "categoryId": 2,
+    "grade": 12,
+    "teacherId": 5,
+    "rating": 4.4,
+    "reviewCount": 90,
+    "enrollment": 576,
+    "createdAt": "2025-04-08T18:43:07.458224",
+    "lessons": [
+      6,
+      4,
+      5,
+      2
+    ],
+    "durationTime": 4929,
+    "tags": [
+      "học thử",
+      "cơ bản",
+      "thực hành"
+    ],
+    "isFeatured": false,
+    "teacher": "Lê Văn E",
+    "category": "Lý",
+    "lessonsCount": 4
+  },
+  {
+    "id": 45,
+    "name": "Hóa học tư duy",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 502538,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 3,
+    "grade": 7,
+    "teacherId": 6,
+    "rating": 3.6,
+    "reviewCount": 67,
+    "enrollment": 2338,
+    "createdAt": "2024-09-10T18:43:07.458390",
+    "lessons": [
+      5,
+      4,
+      2,
+      6
+    ],
+    "durationTime": 8199,
+    "tags": [
+      "cơ bản",
+      "cấp tốc",
+      "đề thi",
+      "nâng cao"
+    ],
+    "isFeatured": true,
+    "teacher": "Hoàng Thị F",
+    "category": "Hóa",
+    "lessonsCount": 4
+  },
+  {
+    "id": 46,
+    "name": "Ngữ văn tổng hợp",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1186911,
+    "image": "/assets/img/img8.webp",
+    "categoryId": 4,
+    "grade": 8,
+    "teacherId": 5,
+    "rating": 4.2,
+    "reviewCount": 186,
+    "enrollment": 2118,
+    "createdAt": "2024-11-03T18:43:07.458421",
+    "lessons": [
+      6,
+      4
+    ],
+    "durationTime": 9303,
+    "tags": [
+      "vào 10",
+      "cơ bản",
+      "đề thi"
+    ],
+    "isFeatured": true,
+    "teacher": "Lê Văn E",
+    "category": "Văn",
+    "lessonsCount": 2
+  },
+  {
+    "id": 47,
+    "name": "Tiếng Anh luyện thi",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 698110,
+    "image": "/assets/img/img8.webp",
+    "categoryId": 5,
+    "grade": 2,
+    "teacherId": 1,
+    "rating": 4.1,
+    "reviewCount": 70,
+    "enrollment": 2260,
+    "createdAt": "2024-09-03T18:43:07.458441",
+    "lessons": [
+      5,
+      4,
+      6
+    ],
+    "durationTime": 5834,
+    "tags": [
+      "thực hành",
+      "ôn thi",
+      "nâng cao"
+    ],
+    "isFeatured": true,
+    "teacher": "Nguyễn Văn A",
+    "category": "Anh",
+    "lessonsCount": 3
+  },
+  {
+    "id": 48,
+    "name": "Tiếng Anh phân tích",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 596861,
+    "image": "/assets/img/img1.png",
+    "categoryId": 5,
+    "grade": 4,
+    "teacherId": 6,
+    "rating": 4.2,
+    "reviewCount": 20,
+    "enrollment": 2605,
+    "createdAt": "2025-04-22T18:43:07.458457",
+    "lessons": [
+      5,
+      4
+    ],
+    "durationTime": 2382,
+    "tags": [
+      "ôn thi",
+      "tư duy",
+      "vào 10"
+    ],
+    "isFeatured": false,
+    "teacher": "Hoàng Thị F",
+    "category": "Anh",
+    "lessonsCount": 2
+  },
+  {
+    "id": 49,
+    "name": "Hóa học nâng cao",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1028717,
+    "image": "/assets/img/img4.jpg",
+    "categoryId": 3,
+    "grade": 7,
+    "teacherId": 3,
+    "rating": 4.4,
+    "reviewCount": 120,
+    "enrollment": 840,
+    "createdAt": "2025-07-01T18:43:07.458469",
+    "lessons": [
+      1,
+      5,
+      6,
+      2
+    ],
+    "durationTime": 7023,
+    "tags": [
+      "tư duy",
+      "cơ bản"
+    ],
+    "isFeatured": true,
+    "teacher": "Phạm Văn C",
+    "category": "Hóa",
+    "lessonsCount": 4
+  },
+  {
+    "id": 50,
+    "name": "Sinh học cơ bản",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 320654,
+    "image": "/assets/img/img1.png",
+    "categoryId": 6,
+    "grade": 10,
+    "teacherId": 9,
+    "rating": 5.0,
+    "reviewCount": 150,
+    "enrollment": 1788,
+    "createdAt": "2024-12-31T18:43:07.458484",
+    "lessons": [
+      1,
+      4
+    ],
+    "durationTime": 13352,
+    "tags": [
+      "đề thi",
+      "học thử",
+      "thực hành"
+    ],
+    "isFeatured": true,
+    "teacher": "Vũ Văn I",
+    "category": "Sinh",
+    "lessonsCount": 2
+  },
+  {
+    "id": 51,
+    "name": "Tiếng Anh thực hành",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 851662,
+    "image": "/assets/img/img4.jpg",
+    "categoryId": 5,
+    "grade": 11,
+    "teacherId": 8,
+    "rating": 4.3,
+    "reviewCount": 195,
+    "enrollment": 2371,
+    "createdAt": "2025-03-17T18:43:07.458509",
+    "lessons": [
+      4,
+      1,
+      6,
+      5
+    ],
+    "durationTime": 8175,
+    "tags": [
+      "tư duy",
+      "đề thi"
+    ],
+    "isFeatured": true,
+    "teacher": "Ngô Thị H",
+    "category": "Anh",
+    "lessonsCount": 4
+  },
+  {
+    "id": 52,
+    "name": "Hóa học tư duy",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 720764,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 3,
+    "grade": 11,
+    "teacherId": 8,
+    "rating": 4.6,
+    "reviewCount": 25,
+    "enrollment": 1370,
+    "createdAt": "2024-09-21T18:43:07.458528",
+    "lessons": [
+      4,
+      1,
+      6,
+      2
+    ],
+    "durationTime": 11576,
+    "tags": [
+      "nâng cao",
+      "đề thi",
+      "cơ bản",
+      "thực hành"
+    ],
+    "isFeatured": true,
+    "teacher": "Ngô Thị H",
+    "category": "Hóa",
+    "lessonsCount": 4
+  },
+  {
+    "id": 53,
+    "name": "Hóa học tổng hợp",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 491205,
+    "image": "/assets/img/img3.jpg",
+    "categoryId": 3,
+    "grade": 11,
+    "teacherId": 9,
+    "rating": 4.2,
+    "reviewCount": 162,
+    "enrollment": 1736,
+    "createdAt": "2025-05-24T18:43:07.458541",
+    "lessons": [
+      4,
+      5,
+      6,
+      2
+    ],
+    "durationTime": 15504,
+    "tags": [
+      "đề thi",
+      "cấp tốc",
+      "cơ bản",
+      "tư duy"
+    ],
+    "isFeatured": true,
+    "teacher": "Vũ Văn I",
+    "category": "Hóa",
+    "lessonsCount": 4
+  },
+  {
+    "id": 54,
+    "name": "Sinh học luyện thi",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 476844,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 6,
+    "grade": 7,
+    "teacherId": 3,
+    "rating": 3.9,
+    "reviewCount": 67,
+    "enrollment": 1659,
+    "createdAt": "2025-03-26T18:43:07.458555",
+    "lessons": [
+      2,
+      1
+    ],
+    "durationTime": 3254,
+    "tags": [
+      "ôn thi",
+      "đề thi"
+    ],
+    "isFeatured": true,
+    "teacher": "Phạm Văn C",
+    "category": "Sinh",
+    "lessonsCount": 2
+  },
+  {
+    "id": 55,
+    "name": "Tiếng Anh phân tích",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1086824,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 5,
+    "grade": 5,
+    "teacherId": 6,
+    "rating": 3.7,
+    "reviewCount": 57,
+    "enrollment": 1833,
+    "createdAt": "2024-09-20T18:43:07.458575",
+    "lessons": [
+      4,
+      6,
+      2,
+      5
+    ],
+    "durationTime": 4903,
+    "tags": [
+      "thực hành",
+      "học thử",
+      "cơ bản"
+    ],
+    "isFeatured": false,
+    "teacher": "Hoàng Thị F",
+    "category": "Anh",
+    "lessonsCount": 4
+  },
+  {
+    "id": 56,
+    "name": "Vật lý nâng cao",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1276720,
+    "image": "/assets/img/img3.jpg",
+    "categoryId": 2,
+    "grade": 10,
+    "teacherId": 2,
+    "rating": 4.5,
+    "reviewCount": 89,
+    "enrollment": 237,
+    "createdAt": "2025-02-15T18:43:07.458594",
+    "lessons": [
+      4,
+      2,
+      6
+    ],
+    "durationTime": 8593,
+    "tags": [
+      "tư duy",
+      "đề thi"
+    ],
+    "isFeatured": true,
+    "teacher": "Nguyễn Thị B",
+    "category": "Lý",
+    "lessonsCount": 3
+  },
+  {
+    "id": 57,
+    "name": "Sinh học cơ bản",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1469524,
+    "image": "/assets/img/img2.jpg",
+    "categoryId": 6,
+    "grade": 2,
+    "teacherId": 2,
+    "rating": 4.2,
+    "reviewCount": 81,
+    "enrollment": 1636,
+    "createdAt": "2025-07-06T18:43:07.458608",
+    "lessons": [
+      4,
+      5,
+      6
+    ],
+    "durationTime": 8698,
+    "tags": [
+      "thực hành",
+      "cơ bản"
+    ],
+    "isFeatured": true,
+    "teacher": "Nguyễn Thị B",
+    "category": "Sinh",
+    "lessonsCount": 3
+  },
+  {
+    "id": 58,
+    "name": "Tiếng Anh thực hành",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 529257,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 5,
+    "grade": 3,
+    "teacherId": 5,
+    "rating": 3.7,
+    "reviewCount": 166,
+    "enrollment": 52,
+    "createdAt": "2024-10-16T18:43:07.458624",
+    "lessons": [
+      6,
+      4,
+      1,
+      5
+    ],
+    "durationTime": 16422,
+    "tags": [
+      "đề thi",
+      "cơ bản",
+      "nâng cao",
+      "ôn thi"
+    ],
+    "isFeatured": true,
+    "teacher": "Lê Văn E",
+    "category": "Anh",
+    "lessonsCount": 4
+  },
+  {
+    "id": 59,
+    "name": "Vật lý tư duy",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1240385,
+    "image": "/assets/img/img4.jpg",
+    "categoryId": 2,
+    "grade": 4,
+    "teacherId": 1,
+    "rating": 4.7,
+    "reviewCount": 167,
+    "enrollment": 946,
+    "createdAt": "2025-06-23T18:43:07.458637",
+    "lessons": [
+      6,
+      2,
+      1
+    ],
+    "durationTime": 13762,
+    "tags": [
+      "vào 10",
+      "nâng cao",
+      "học thử"
+    ],
+    "isFeatured": true,
+    "teacher": "Nguyễn Văn A",
+    "category": "Lý",
+    "lessonsCount": 3
+  },
+  {
+    "id": 60,
+    "name": "Toán tổng hợp",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1001248,
+    "image": "/assets/img/img1.png",
+    "categoryId": 1,
+    "grade": 2,
+    "teacherId": 7,
+    "rating": 4.8,
+    "reviewCount": 174,
+    "enrollment": 2922,
+    "createdAt": "2024-07-30T18:43:07.458650",
+    "lessons": [
+      2,
+      6,
+      4
+    ],
+    "durationTime": 17774,
+    "tags": [
+      "thực hành",
+      "nâng cao"
+    ],
+    "isFeatured": true,
+    "teacher": "Đặng Văn G",
+    "category": "Toán",
+    "lessonsCount": 3
+  },
+  {
+    "id": 61,
+    "name": "Hóa học luyện thi",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1037032,
+    "image": "/assets/img/img5.png",
+    "categoryId": 3,
+    "grade": 6,
+    "teacherId": 3,
+    "rating": 4.9,
+    "reviewCount": 190,
+    "enrollment": 1602,
+    "createdAt": "2024-07-24T18:43:07.458663",
+    "lessons": [
+      4,
+      1,
+      2,
+      6
+    ],
+    "durationTime": 13646,
+    "tags": [
+      "vào 10",
+      "đề thi"
+    ],
+    "isFeatured": false,
+    "teacher": "Phạm Văn C",
+    "category": "Hóa",
+    "lessonsCount": 4
+  },
+  {
+    "id": 62,
+    "name": "Toán phân tích",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1314277,
+    "image": "/assets/img/img2.jpg",
+    "categoryId": 1,
+    "grade": 2,
+    "teacherId": 5,
+    "rating": 4.1,
+    "reviewCount": 143,
+    "enrollment": 232,
+    "createdAt": "2024-11-04T18:43:07.458676",
+    "lessons": [
+      1,
+      4
+    ],
+    "durationTime": 6407,
+    "tags": [
+      "ôn thi",
+      "nâng cao",
+      "cấp tốc"
+    ],
+    "isFeatured": true,
+    "teacher": "Lê Văn E",
+    "category": "Toán",
+    "lessonsCount": 2
+  },
+  {
+    "id": 63,
+    "name": "Ngữ văn nâng cao",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1451464,
+    "image": "/assets/img/img5.png",
+    "categoryId": 4,
+    "grade": 2,
+    "teacherId": 6,
+    "rating": 4.3,
+    "reviewCount": 82,
+    "enrollment": 1193,
+    "createdAt": "2025-01-18T18:43:07.458688",
+    "lessons": [
+      5,
+      6,
+      1,
+      4
+    ],
+    "durationTime": 15735,
+    "tags": [
+      "tư duy",
+      "thực hành",
+      "ôn thi"
+    ],
+    "isFeatured": true,
+    "teacher": "Hoàng Thị F",
+    "category": "Văn",
+    "lessonsCount": 4
+  },
+  {
+    "id": 64,
+    "name": "Hóa học cơ bản",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 648789,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 3,
+    "grade": 8,
+    "teacherId": 9,
+    "rating": 4.8,
+    "reviewCount": 25,
+    "enrollment": 1733,
+    "createdAt": "2024-10-31T18:43:07.458701",
+    "lessons": [
+      6,
+      4,
+      1,
+      2
+    ],
+    "durationTime": 15616,
+    "tags": [
+      "tư duy",
+      "vào 10",
+      "học thử"
+    ],
+    "isFeatured": true,
+    "teacher": "Vũ Văn I",
+    "category": "Hóa",
+    "lessonsCount": 4
+  },
+  {
+    "id": 65,
+    "name": "Ngữ văn thực hành",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 310530,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 4,
+    "grade": 12,
+    "teacherId": 7,
+    "rating": 4.4,
+    "reviewCount": 47,
+    "enrollment": 1365,
+    "createdAt": "2024-12-13T18:43:07.458713",
+    "lessons": [
+      2,
+      1
+    ],
+    "durationTime": 11552,
+    "tags": [
+      "tư duy",
+      "học thử",
+      "vào 10"
+    ],
+    "isFeatured": true,
+    "teacher": "Đặng Văn G",
+    "category": "Văn",
+    "lessonsCount": 2
+  },
+  {
+    "id": 66,
+    "name": "Toán tư duy",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1028361,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 1,
+    "grade": 6,
+    "teacherId": 8,
+    "rating": 4.1,
+    "reviewCount": 99,
+    "enrollment": 344,
+    "createdAt": "2024-11-06T18:43:07.458726",
+    "lessons": [
+      5,
+      1,
+      2,
+      6
+    ],
+    "durationTime": 10301,
+    "tags": [
+      "ôn thi",
+      "nâng cao",
+      "đề thi"
+    ],
+    "isFeatured": false,
+    "teacher": "Ngô Thị H",
+    "category": "Toán",
+    "lessonsCount": 4
+  },
+  {
+    "id": 67,
+    "name": "Ngữ văn tổng hợp",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 408046,
+    "image": "/assets/img/img5.png",
+    "categoryId": 4,
+    "grade": 1,
+    "teacherId": 10,
+    "rating": 5.0,
+    "reviewCount": 76,
+    "enrollment": 107,
+    "createdAt": "2024-08-25T18:43:07.458742",
+    "lessons": [
+      6,
+      5,
+      4
+    ],
+    "durationTime": 2465,
+    "tags": [
+      "thực hành",
+      "cơ bản",
+      "ôn thi",
+      "đề thi"
+    ],
+    "isFeatured": true,
+    "teacher": "Đinh Thị J",
+    "category": "Văn",
+    "lessonsCount": 3
+  },
+  {
+    "id": 68,
+    "name": "Toán luyện thi",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 653837,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 1,
+    "grade": 11,
+    "teacherId": 9,
+    "rating": 3.9,
+    "reviewCount": 140,
+    "enrollment": 1030,
+    "createdAt": "2024-12-01T18:43:07.458762",
+    "lessons": [
+      4,
+      1,
+      6,
+      5
+    ],
+    "durationTime": 3610,
+    "tags": [
+      "vào 10",
+      "cơ bản"
+    ],
+    "isFeatured": false,
+    "teacher": "Vũ Văn I",
+    "category": "Toán",
+    "lessonsCount": 4
+  },
+  {
+    "id": 69,
+    "name": "Ngữ văn phân tích",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1250258,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 4,
+    "grade": 1,
+    "teacherId": 10,
+    "rating": 4.3,
+    "reviewCount": 140,
+    "enrollment": 1091,
+    "createdAt": "2025-01-13T18:43:07.458780",
+    "lessons": [
+      4,
+      1,
+      5,
+      6
+    ],
+    "durationTime": 4886,
+    "tags": [
+      "ôn thi",
+      "cấp tốc",
+      "tư duy",
+      "cơ bản"
+    ],
+    "isFeatured": true,
+    "teacher": "Đinh Thị J",
+    "category": "Văn",
+    "lessonsCount": 4
+  },
+  {
+    "id": 70,
+    "name": "Hóa học nâng cao",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 315735,
+    "image": "/assets/img/img5.png",
+    "categoryId": 3,
+    "grade": 11,
+    "teacherId": 1,
+    "rating": 4.8,
+    "reviewCount": 168,
+    "enrollment": 2629,
+    "createdAt": "2025-05-12T18:43:07.458794",
+    "lessons": [
+      4,
+      2,
+      1
+    ],
+    "durationTime": 13212,
+    "tags": [
+      "đề thi",
+      "tư duy",
+      "ôn thi"
+    ],
+    "isFeatured": false,
+    "teacher": "Nguyễn Văn A",
+    "category": "Hóa",
+    "lessonsCount": 3
+  },
+  {
+    "id": 71,
+    "name": "Tiếng Anh cơ bản",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1423241,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 5,
+    "grade": 7,
+    "teacherId": 3,
+    "rating": 4.6,
+    "reviewCount": 56,
+    "enrollment": 128,
+    "createdAt": "2025-04-07T18:43:07.458805",
+    "lessons": [
+      5,
+      4
+    ],
+    "durationTime": 4737,
+    "tags": [
+      "thực hành",
+      "ôn thi",
+      "nâng cao"
+    ],
+    "isFeatured": false,
+    "teacher": "Phạm Văn C",
+    "category": "Anh",
+    "lessonsCount": 2
+  },
+  {
+    "id": 72,
+    "name": "Ngữ văn thực hành",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1466043,
+    "image": "/assets/img/img5.png",
+    "categoryId": 4,
+    "grade": 8,
+    "teacherId": 9,
+    "rating": 4.5,
+    "reviewCount": 176,
+    "enrollment": 2974,
+    "createdAt": "2024-12-11T18:43:07.458819",
+    "lessons": [
+      2,
+      1,
+      4
+    ],
+    "durationTime": 10188,
+    "tags": [
+      "cấp tốc",
+      "ôn thi",
+      "thực hành",
+      "học thử"
+    ],
+    "isFeatured": false,
+    "teacher": "Vũ Văn I",
+    "category": "Văn",
+    "lessonsCount": 3
+  },
+  {
+    "id": 73,
+    "name": "Sinh học tư duy",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 885444,
+    "image": "/assets/img/img8.webp",
+    "categoryId": 6,
+    "grade": 10,
+    "teacherId": 10,
+    "rating": 4.4,
+    "reviewCount": 127,
+    "enrollment": 1354,
+    "createdAt": "2025-04-22T18:43:07.458831",
+    "lessons": [
+      4,
+      1,
+      6
+    ],
+    "durationTime": 17384,
+    "tags": [
+      "cơ bản",
+      "đề thi"
+    ],
+    "isFeatured": true,
+    "teacher": "Đinh Thị J",
+    "category": "Sinh",
+    "lessonsCount": 3
+  },
+  {
+    "id": 74,
+    "name": "Sinh học tổng hợp",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1392298,
+    "image": "/assets/img/img5.png",
+    "categoryId": 6,
+    "grade": 9,
+    "teacherId": 3,
+    "rating": 4.1,
+    "reviewCount": 55,
+    "enrollment": 1159,
+    "createdAt": "2025-06-15T18:43:07.458844",
+    "lessons": [
+      6,
+      1,
+      2
+    ],
+    "durationTime": 6400,
+    "tags": [
+      "học thử",
+      "cơ bản",
+      "đề thi",
+      "tư duy"
+    ],
+    "isFeatured": true,
+    "teacher": "Phạm Văn C",
+    "category": "Sinh",
+    "lessonsCount": 3
+  },
+  {
+    "id": 75,
+    "name": "Tiếng Anh luyện thi",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1471230,
+    "image": "/assets/img/img8.webp",
+    "categoryId": 5,
+    "grade": 4,
+    "teacherId": 7,
+    "rating": 3.5,
+    "reviewCount": 142,
+    "enrollment": 2452,
+    "createdAt": "2025-05-29T18:43:07.458858",
+    "lessons": [
+      1,
+      6,
+      2,
+      4
+    ],
+    "durationTime": 7745,
+    "tags": [
+      "cơ bản",
+      "đề thi",
+      "nâng cao"
+    ],
+    "isFeatured": true,
+    "teacher": "Đặng Văn G",
+    "category": "Anh",
+    "lessonsCount": 4
+  },
+  {
+    "id": 76,
+    "name": "Vật lý phân tích",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1325701,
+    "image": "/assets/img/img8.webp",
+    "categoryId": 2,
+    "grade": 5,
+    "teacherId": 8,
+    "rating": 4.8,
+    "reviewCount": 83,
+    "enrollment": 1397,
+    "createdAt": "2024-09-13T18:43:07.458870",
+    "lessons": [
+      4,
+      1
+    ],
+    "durationTime": 11032,
+    "tags": [
+      "cấp tốc",
+      "vào 10"
+    ],
+    "isFeatured": false,
+    "teacher": "Ngô Thị H",
+    "category": "Lý",
+    "lessonsCount": 2
+  },
+  {
+    "id": 77,
+    "name": "Vật lý nâng cao",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 646579,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 2,
+    "grade": 1,
+    "teacherId": 2,
+    "rating": 3.6,
+    "reviewCount": 84,
+    "enrollment": 1452,
+    "createdAt": "2025-03-10T18:43:07.458882",
+    "lessons": [
+      5,
+      2,
+      1,
+      6
+    ],
+    "durationTime": 5880,
+    "tags": [
+      "thực hành",
+      "cơ bản",
+      "học thử"
+    ],
+    "isFeatured": true,
+    "teacher": "Nguyễn Thị B",
+    "category": "Lý",
+    "lessonsCount": 4
+  },
+  {
+    "id": 78,
+    "name": "Toán cơ bản",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 360738,
+    "image": "/assets/img/img5.png",
+    "categoryId": 1,
+    "grade": 1,
+    "teacherId": 9,
+    "rating": 4.0,
+    "reviewCount": 26,
+    "enrollment": 2871,
+    "createdAt": "2024-11-30T18:43:07.458895",
+    "lessons": [
+      4,
+      1,
+      2,
+      6
+    ],
+    "durationTime": 15272,
+    "tags": [
+      "nâng cao",
+      "học thử",
+      "vào 10"
+    ],
+    "isFeatured": true,
+    "teacher": "Vũ Văn I",
+    "category": "Toán",
+    "lessonsCount": 4
+  },
+  {
+    "id": 79,
+    "name": "Tiếng Anh thực hành",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 983043,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 5,
+    "grade": 7,
+    "teacherId": 9,
+    "rating": 3.9,
+    "reviewCount": 47,
+    "enrollment": 1787,
+    "createdAt": "2024-07-16T18:43:07.458907",
+    "lessons": [
+      1,
+      2,
+      6,
+      4
+    ],
+    "durationTime": 9386,
+    "tags": [
+      "tư duy",
+      "học thử"
+    ],
+    "isFeatured": true,
+    "teacher": "Vũ Văn I",
+    "category": "Anh",
+    "lessonsCount": 4
+  },
+  {
+    "id": 80,
+    "name": "Hóa học tư duy",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 635905,
+    "image": "/assets/img/img1.png",
+    "categoryId": 3,
+    "grade": 8,
+    "teacherId": 2,
+    "rating": 5.0,
+    "reviewCount": 79,
+    "enrollment": 1948,
+    "createdAt": "2025-03-22T18:43:07.458919",
+    "lessons": [
+      6,
+      4,
+      5,
+      1
+    ],
+    "durationTime": 13128,
+    "tags": [
+      "đề thi",
+      "ôn thi",
+      "tư duy"
+    ],
+    "isFeatured": false,
+    "teacher": "Nguyễn Thị B",
+    "category": "Hóa",
+    "lessonsCount": 4
+  },
+  {
+    "id": 81,
+    "name": "Tiếng Anh tổng hợp",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1103344,
+    "image": "/assets/img/img1.png",
+    "categoryId": 5,
+    "grade": 9,
+    "teacherId": 4,
+    "rating": 4.8,
+    "reviewCount": 180,
+    "enrollment": 554,
+    "createdAt": "2025-06-29T18:43:07.458935",
+    "lessons": [
+      5,
+      6,
+      2
+    ],
+    "durationTime": 4313,
+    "tags": [
+      "đề thi",
+      "nâng cao",
+      "thực hành",
+      "tư duy"
+    ],
+    "isFeatured": true,
+    "teacher": "Trần Thị D",
+    "category": "Anh",
+    "lessonsCount": 3
+  },
+  {
+    "id": 82,
+    "name": "Sinh học luyện thi",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 508549,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 6,
+    "grade": 9,
+    "teacherId": 7,
+    "rating": 4.9,
+    "reviewCount": 77,
+    "enrollment": 1432,
+    "createdAt": "2025-06-17T18:43:07.458953",
+    "lessons": [
+      5,
+      1
+    ],
+    "durationTime": 12913,
+    "tags": [
+      "cấp tốc",
+      "cơ bản"
+    ],
+    "isFeatured": false,
+    "teacher": "Đặng Văn G",
+    "category": "Sinh",
+    "lessonsCount": 2
+  },
+  {
+    "id": 83,
+    "name": "Tiếng Anh phân tích",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1004711,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 5,
+    "grade": 4,
+    "teacherId": 6,
+    "rating": 4.4,
+    "reviewCount": 183,
+    "enrollment": 1511,
+    "createdAt": "2024-08-10T18:43:07.458966",
+    "lessons": [
+      2,
+      4,
+      5,
+      1
+    ],
+    "durationTime": 11249,
+    "tags": [
+      "cấp tốc",
+      "ôn thi",
+      "cơ bản"
+    ],
+    "isFeatured": false,
+    "teacher": "Hoàng Thị F",
+    "category": "Anh",
+    "lessonsCount": 4
+  },
+  {
+    "id": 84,
+    "name": "Sinh học nâng cao",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1462491,
+    "image": "/assets/img/img5.png",
+    "categoryId": 6,
+    "grade": 11,
+    "teacherId": 6,
+    "rating": 4.4,
+    "reviewCount": 94,
+    "enrollment": 854,
+    "createdAt": "2025-02-04T18:43:07.458978",
+    "lessons": [
+      6,
+      2
+    ],
+    "durationTime": 9546,
+    "tags": [
+      "vào 10",
+      "cơ bản",
+      "nâng cao",
+      "học thử"
+    ],
+    "isFeatured": false,
+    "teacher": "Hoàng Thị F",
+    "category": "Sinh",
+    "lessonsCount": 2
+  },
+  {
+    "id": 85,
+    "name": "Toán cơ bản",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 690283,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 1,
+    "grade": 10,
+    "teacherId": 8,
+    "rating": 4.5,
+    "reviewCount": 44,
+    "enrollment": 2296,
+    "createdAt": "2024-09-28T18:43:07.458991",
+    "lessons": [
+      4,
+      1,
+      5,
+      6
+    ],
+    "durationTime": 4353,
+    "tags": [
+      "đề thi",
+      "cơ bản",
+      "vào 10"
+    ],
+    "isFeatured": false,
+    "teacher": "Ngô Thị H",
+    "category": "Toán",
+    "lessonsCount": 4
+  },
+  {
+    "id": 86,
+    "name": "Vật lý thực hành",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 877978,
+    "image": "/assets/img/img1.png",
+    "categoryId": 2,
+    "grade": 6,
+    "teacherId": 1,
+    "rating": 4.5,
+    "reviewCount": 35,
+    "enrollment": 2152,
+    "createdAt": "2024-08-17T18:43:07.459003",
+    "lessons": [
+      2,
+      4,
+      1
+    ],
+    "durationTime": 6351,
+    "tags": [
+      "học thử",
+      "cấp tốc",
+      "cơ bản",
+      "đề thi"
+    ],
+    "isFeatured": true,
+    "teacher": "Nguyễn Văn A",
+    "category": "Lý",
+    "lessonsCount": 3
+  },
+  {
+    "id": 87,
+    "name": "Toán tư duy",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1045595,
+    "image": "/assets/img/img5.png",
+    "categoryId": 1,
+    "grade": 9,
+    "teacherId": 2,
+    "rating": 4.4,
+    "reviewCount": 86,
+    "enrollment": 2287,
+    "createdAt": "2024-11-22T18:43:07.459022",
+    "lessons": [
+      2,
+      1
+    ],
+    "durationTime": 15439,
+    "tags": [
+      "tư duy",
+      "ôn thi",
+      "cơ bản",
+      "học thử"
+    ],
+    "isFeatured": true,
+    "teacher": "Nguyễn Thị B",
+    "category": "Toán",
+    "lessonsCount": 2
+  },
+  {
+    "id": 88,
+    "name": "Toán tổng hợp",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 485616,
+    "image": "/assets/img/img3.jpg",
+    "categoryId": 1,
+    "grade": 4,
+    "teacherId": 5,
+    "rating": 4.4,
+    "reviewCount": 77,
+    "enrollment": 2002,
+    "createdAt": "2024-10-12T18:43:07.459037",
+    "lessons": [
+      1,
+      5,
+      2,
+      4
+    ],
+    "durationTime": 7345,
+    "tags": [
+      "ôn thi",
+      "cơ bản"
+    ],
+    "isFeatured": true,
+    "teacher": "Lê Văn E",
+    "category": "Toán",
+    "lessonsCount": 4
+  },
+  {
+    "id": 89,
+    "name": "Toán luyện thi",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 586055,
+    "image": "/assets/img/img1.png",
+    "categoryId": 1,
+    "grade": 12,
+    "teacherId": 4,
+    "rating": 4.1,
+    "reviewCount": 12,
+    "enrollment": 1349,
+    "createdAt": "2025-01-16T18:43:07.459049",
+    "lessons": [
+      6,
+      2,
+      4,
+      1
+    ],
+    "durationTime": 7481,
+    "tags": [
+      "ôn thi",
+      "đề thi"
+    ],
+    "isFeatured": false,
+    "teacher": "Trần Thị D",
+    "category": "Toán",
+    "lessonsCount": 4
+  },
+  {
+    "id": 90,
+    "name": "Vật lý phân tích",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 665201,
+    "image": "/assets/img/img3.jpg",
+    "categoryId": 2,
+    "grade": 2,
+    "teacherId": 1,
+    "rating": 4.8,
+    "reviewCount": 106,
+    "enrollment": 2260,
+    "createdAt": "2025-01-11T18:43:07.459062",
+    "lessons": [
+      1,
+      6,
+      2,
+      4
+    ],
+    "durationTime": 14720,
+    "tags": [
+      "cơ bản",
+      "thực hành",
+      "học thử"
+    ],
+    "isFeatured": true,
+    "teacher": "Nguyễn Văn A",
+    "category": "Lý",
+    "lessonsCount": 4
+  },
+  {
+    "id": 91,
+    "name": "Sinh học nâng cao",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1195794,
+    "image": "/assets/img/img4.jpg",
+    "categoryId": 6,
+    "grade": 12,
+    "teacherId": 10,
+    "rating": 5.0,
+    "reviewCount": 184,
+    "enrollment": 1093,
+    "createdAt": "2024-10-11T18:43:07.459074",
+    "lessons": [
+      6,
+      5,
+      2
+    ],
+    "durationTime": 9066,
+    "tags": [
+      "vào 10",
+      "cơ bản"
+    ],
+    "isFeatured": false,
+    "teacher": "Đinh Thị J",
+    "category": "Sinh",
+    "lessonsCount": 3
+  },
+  {
+    "id": 92,
+    "name": "Hóa học cơ bản",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 594974,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 3,
+    "grade": 4,
+    "teacherId": 6,
+    "rating": 3.8,
+    "reviewCount": 105,
+    "enrollment": 2471,
+    "createdAt": "2025-03-30T18:43:07.459085",
+    "lessons": [
+      2,
+      6,
+      4
+    ],
+    "durationTime": 11116,
+    "tags": [
+      "học thử",
+      "tư duy",
+      "vào 10",
+      "cơ bản"
+    ],
+    "isFeatured": true,
+    "teacher": "Hoàng Thị F",
+    "category": "Hóa",
+    "lessonsCount": 3
+  },
+  {
+    "id": 93,
+    "name": "Sinh học thực hành",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1359397,
+    "image": "/assets/img/img5.png",
+    "categoryId": 6,
+    "grade": 9,
+    "teacherId": 2,
+    "rating": 5.0,
+    "reviewCount": 120,
+    "enrollment": 456,
+    "createdAt": "2024-09-28T18:43:07.459098",
+    "lessons": [
+      2,
+      4,
+      1
+    ],
+    "durationTime": 14838,
+    "tags": [
+      "vào 10",
+      "đề thi",
+      "thực hành"
+    ],
+    "isFeatured": false,
+    "teacher": "Nguyễn Thị B",
+    "category": "Sinh",
+    "lessonsCount": 3
+  },
+  {
+    "id": 94,
+    "name": "Tiếng Anh tư duy",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1292807,
+    "image": "/assets/img/img1.png",
+    "categoryId": 5,
+    "grade": 5,
+    "teacherId": 10,
+    "rating": 3.8,
+    "reviewCount": 86,
+    "enrollment": 1404,
+    "createdAt": "2025-02-12T18:43:07.459110",
+    "lessons": [
+      5,
+      4
+    ],
+    "durationTime": 17946,
+    "tags": [
+      "ôn thi",
+      "tư duy",
+      "vào 10"
+    ],
+    "isFeatured": true,
+    "teacher": "Đinh Thị J",
+    "category": "Anh",
+    "lessonsCount": 2
+  },
+  {
+    "id": 95,
+    "name": "Tiếng Anh tổng hợp",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1385034,
+    "image": "/assets/img/img4.jpg",
+    "categoryId": 5,
+    "grade": 3,
+    "teacherId": 7,
+    "rating": 3.8,
+    "reviewCount": 143,
+    "enrollment": 905,
+    "createdAt": "2024-12-08T18:43:07.459122",
+    "lessons": [
+      6,
+      4,
+      2
+    ],
+    "durationTime": 9515,
+    "tags": [
+      "tư duy",
+      "cấp tốc"
+    ],
+    "isFeatured": false,
+    "teacher": "Đặng Văn G",
+    "category": "Anh",
+    "lessonsCount": 3
+  },
+  {
+    "id": 96,
+    "name": "Hóa học luyện thi",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1312108,
+    "image": "/assets/img/img1.png",
+    "categoryId": 3,
+    "grade": 9,
+    "teacherId": 4,
+    "rating": 3.9,
+    "reviewCount": 199,
+    "enrollment": 2145,
+    "createdAt": "2025-05-23T18:43:07.459134",
+    "lessons": [
+      4,
+      5,
+      6,
+      2
+    ],
+    "durationTime": 14714,
+    "tags": [
+      "tư duy",
+      "ôn thi",
+      "học thử",
+      "vào 10"
+    ],
+    "isFeatured": false,
+    "teacher": "Trần Thị D",
+    "category": "Hóa",
+    "lessonsCount": 4
+  },
+  {
+    "id": 97,
+    "name": "Tiếng Anh phân tích",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 344705,
+    "image": "/assets/img/img4.jpg",
+    "categoryId": 5,
+    "grade": 9,
+    "teacherId": 9,
+    "rating": 3.7,
+    "reviewCount": 45,
+    "enrollment": 2863,
+    "createdAt": "2024-10-18T18:43:07.459147",
+    "lessons": [
+      2,
+      5,
+      1
+    ],
+    "durationTime": 4387,
+    "tags": [
+      "cơ bản",
+      "vào 10",
+      "nâng cao",
+      "cấp tốc"
+    ],
+    "isFeatured": false,
+    "teacher": "Vũ Văn I",
+    "category": "Anh",
+    "lessonsCount": 3
+  },
+  {
+    "id": 98,
+    "name": "Hóa học nâng cao",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1031715,
+    "image": "/assets/img/img3.jpg",
+    "categoryId": 3,
+    "grade": 8,
+    "teacherId": 6,
+    "rating": 4.0,
+    "reviewCount": 85,
+    "enrollment": 520,
+    "createdAt": "2025-03-19T18:43:07.459163",
+    "lessons": [
+      2,
+      4
+    ],
+    "durationTime": 11373,
+    "tags": [
+      "đề thi",
+      "cơ bản",
+      "thực hành",
+      "học thử"
+    ],
+    "isFeatured": true,
+    "teacher": "Hoàng Thị F",
+    "category": "Hóa",
+    "lessonsCount": 2
+  },
+  {
+    "id": 99,
+    "name": "Sinh học cơ bản",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1264048,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 6,
+    "grade": 2,
+    "teacherId": 2,
+    "rating": 4.2,
+    "reviewCount": 63,
+    "enrollment": 2027,
+    "createdAt": "2024-12-12T18:43:07.459176",
+    "lessons": [
+      4,
+      2,
+      5
+    ],
+    "durationTime": 4126,
+    "tags": [
+      "ôn thi",
+      "thực hành"
+    ],
+    "isFeatured": false,
+    "teacher": "Nguyễn Thị B",
+    "category": "Sinh",
+    "lessonsCount": 3
+  },
+  {
+    "id": 100,
+    "name": "Ngữ văn thực hành",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 595984,
+    "image": "/assets/img/img2.jpg",
+    "categoryId": 4,
+    "grade": 10,
+    "teacherId": 8,
+    "rating": 4.9,
+    "reviewCount": 27,
+    "enrollment": 708,
+    "createdAt": "2024-07-12T18:43:07.459196",
+    "lessons": [
+      4,
+      1,
+      2,
+      6
+    ],
+    "durationTime": 11088,
+    "tags": [
+      "vào 10",
+      "học thử",
+      "ôn thi"
+    ],
+    "isFeatured": true,
+    "teacher": "Ngô Thị H",
+    "category": "Văn",
+    "lessonsCount": 4
+  },
+  {
+    "id": 101,
+    "name": "Toán tư duy",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 375113,
+    "image": "/assets/img/img1.png",
+    "categoryId": 1,
+    "grade": 4,
+    "teacherId": 1,
+    "rating": 4.3,
+    "reviewCount": 45,
+    "enrollment": 2436,
+    "createdAt": "2025-03-29T18:43:07.459215",
+    "lessons": [
+      5,
+      4
+    ],
+    "durationTime": 15236,
+    "tags": [
+      "tư duy",
+      "thực hành",
+      "ôn thi",
+      "cơ bản"
+    ],
+    "isFeatured": false,
+    "teacher": "Nguyễn Văn A",
+    "category": "Toán",
+    "lessonsCount": 2
+  },
+  {
+    "id": 102,
+    "name": "Tiếng Anh tổng hợp",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1288583,
+    "image": "/assets/img/img2.jpg",
+    "categoryId": 5,
+    "grade": 2,
+    "teacherId": 1,
+    "rating": 3.6,
+    "reviewCount": 26,
+    "enrollment": 2744,
+    "createdAt": "2024-08-31T18:43:07.459229",
+    "lessons": [
+      2,
+      6,
+      1
+    ],
+    "durationTime": 16131,
+    "tags": [
+      "thực hành",
+      "đề thi"
+    ],
+    "isFeatured": true,
+    "teacher": "Nguyễn Văn A",
+    "category": "Anh",
+    "lessonsCount": 3
+  },
+  {
+    "id": 103,
+    "name": "Vật lý luyện thi",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1183931,
+    "image": "/assets/img/img2.jpg",
+    "categoryId": 2,
+    "grade": 7,
+    "teacherId": 4,
+    "rating": 4.0,
+    "reviewCount": 66,
+    "enrollment": 2950,
+    "createdAt": "2024-07-30T18:43:07.459241",
+    "lessons": [
+      1,
+      2
+    ],
+    "durationTime": 5417,
+    "tags": [
+      "ôn thi",
+      "học thử",
+      "tư duy",
+      "cơ bản"
+    ],
+    "isFeatured": false,
+    "teacher": "Trần Thị D",
+    "category": "Lý",
+    "lessonsCount": 2
+  },
+  {
+    "id": 104,
+    "name": "Sinh học phân tích",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1422983,
+    "image": "/assets/img/img2.jpg",
+    "categoryId": 6,
+    "grade": 7,
+    "teacherId": 2,
+    "rating": 4.3,
+    "reviewCount": 28,
+    "enrollment": 1910,
+    "createdAt": "2024-10-25T18:43:07.459260",
+    "lessons": [
+      6,
+      4,
+      2,
+      1
+    ],
+    "durationTime": 10965,
+    "tags": [
+      "ôn thi",
+      "đề thi",
+      "học thử"
+    ],
+    "isFeatured": false,
+    "teacher": "Nguyễn Thị B",
+    "category": "Sinh",
+    "lessonsCount": 4
+  },
+  {
+    "id": 105,
+    "name": "Sinh học nâng cao",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 453274,
+    "image": "/assets/img/img8.webp",
+    "categoryId": 6,
+    "grade": 6,
+    "teacherId": 5,
+    "rating": 4.1,
+    "reviewCount": 148,
+    "enrollment": 1000,
+    "createdAt": "2024-12-09T18:43:07.459276",
+    "lessons": [
+      1,
+      4
+    ],
+    "durationTime": 10036,
+    "tags": [
+      "thực hành",
+      "cơ bản"
+    ],
+    "isFeatured": true,
+    "teacher": "Lê Văn E",
+    "category": "Sinh",
+    "lessonsCount": 2
+  },
+  {
+    "id": 106,
+    "name": "Toán cơ bản",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 1408123,
+    "image": "/assets/img/img1.png",
+    "categoryId": 1,
+    "grade": 2,
+    "teacherId": 3,
+    "rating": 4.7,
+    "reviewCount": 144,
+    "enrollment": 311,
+    "createdAt": "2025-07-08T18:43:07.459290",
+    "lessons": [
+      1,
+      6,
+      4,
+      2
+    ],
+    "durationTime": 7294,
+    "tags": [
+      "đề thi",
+      "cấp tốc",
+      "nâng cao",
+      "tư duy"
+    ],
+    "isFeatured": true,
+    "teacher": "Phạm Văn C",
+    "category": "Toán",
+    "lessonsCount": 4
+  },
+  {
+    "id": 107,
+    "name": "Vật lý thực hành",
+    "description": "Khóa học giúp bạn nâng cao kiến thức và kỹ năng.",
+    "fullDescription": "Khóa học được thiết kế nhằm giúp học sinh nắm vững kiến thức trọng tâm theo chương trình chuẩn của Bộ Giáo dục. Thông qua hệ thống bài giảng sinh động, bài tập thực hành, và đề luyện bám sát đề thi thật, học sinh sẽ phát triển kỹ năng tư duy logic, tăng khả năng vận dụng linh hoạt kiến thức vào giải quyết vấn đề thực tế. Ngoài ra, khóa học còn tích hợp các mẹo làm bài, phương pháp học hiệu quả và hỗ trợ tư vấn từ giáo viên để nâng cao kết quả học tập tối đa.",
+    "price": 382679,
+    "image": "/assets/img/img7.webp",
+    "categoryId": 2,
+    "grade": 12,
+    "teacherId": 6,
+    "rating": 4.7,
+    "reviewCount": 29,
+    "enrollment": 1577,
+    "createdAt": "2024-11-08T18:43:07.459307",
+    "lessons": [
+      4,
+      5
+    ],
+    "durationTime": 16647,
+    "tags": [
+      "tư duy",
+      "cấp tốc"
+    ],
+    "isFeatured": false,
+    "teacher": "Hoàng Thị F",
+    "category": "Lý",
+    "lessonsCount": 2
+  }
+]

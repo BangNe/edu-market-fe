@@ -1,0 +1,108 @@
+.pagination-box-wrapper {
+    display: flex;
+    justify-content: flex-end;
+
+    margin-top: 40px;
+
+    .pagination-box {
+        display: flex;
+        gap: 10px;
+    }
+
+    .pagination-box-item {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+        height: 36px;
+        padding: 0 12px;
+        border: 1px solid transparent;
+        border-radius: 5px;
+        transition: all 0.3s linear;
+
+        user-select: none;
+
+        span {
+            font-family: "Open Sans", sans-serif;
+            font-size: 16px;
+            font-weight: 500;
+            color: #ed6d20;
+            text-transform: capitalize;
+        }
+    }
+
+    .pagination-box-item:hover {
+        cursor: pointer;
+        opacity: 0.5;
+    }
+
+    .pagination-box-type {
+        background-color: #808080;
+
+        span {
+            color: #ffffff;
+        }
+    }
+
+    .pagination-box-type.disable {
+        background-color: #DCDCDC;
+    }
+
+    .pagination-box-type.disable:hover {
+        cursor: default;
+        opacity: 1;
+    }
+
+    .pagination-box--link {
+        width: 35px;
+    }
+
+    .pagination-box--link:hover {
+        background-color: #ed6d20;
+        opacity: 1;
+
+        span {
+            color: #ffffff;
+        }
+    }
+
+    .pagination-box--link.active {
+        background-color: #ed6d20;
+
+        span {
+            color: #ffffff;
+        }
+    }
+
+    .pagination-box--link.active:hover {
+        opacity: 1;
+    }
+
+    .pagination-box--link.note:hover {
+        cursor: default;
+        opacity: 1;
+        background-color: transparent;
+
+        span {
+            color: #ed6d20;
+        }
+    }
+}
+
+@media (max-width: 767px) {
+    .pagination-box-wrapper  {
+        .pagination-box {
+            display: flex;
+            gap: 4px;
+        }
+
+        .pagination-box-item {
+            padding: 0 6px;
+            height: 24px;
+        }
+
+        .pagination-box--link {
+            width: 22px;
+        }
+    }
+}

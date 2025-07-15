@@ -1,0 +1,204 @@
+.search-courses-wrapper {
+    position: relative;
+
+    width: 100%;
+    height: 100%;
+
+    .search-courses-inner {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+
+        width: 100%;
+        height: 100%;
+        padding: 12px 16px;
+        border-radius: 5px;
+        box-shadow: 0 4px 20px #00000026;
+    }
+
+    .search-courses-input {
+        position: relative;
+        width: 100%;
+        height: 100%;
+
+        input {
+            width: 100%;
+            height: 100%;
+            caret-color: #ed6d20;
+            border: none;
+            outline: none;
+
+            font-family: "Open Sans", sans-serif;
+            font-size: 16px;
+            font-weight: 600;
+            color: #525252;
+        }
+
+        input::placeholder {
+            font-family: "Open Sans", sans-serif;
+            font-size: 16px;
+            font-weight: 400;
+            color: #a4a4a4;
+        }
+    }
+
+    .search-courses-input-load {
+        position: absolute;
+        top: 50%;
+        right: 0;
+        color: #ed6d20;
+        font-size: 20px;
+        transform: translateY(-50%) rotate(0deg);
+        animation: spin 1s linear infinite;
+    }
+
+    @keyframes spin {
+        0% {
+            transform: translateY(-50%) rotate(0deg);
+        }
+
+        100% {
+            transform: translateY(-50%) rotate(360deg);
+        }
+    }
+
+    .search-courses-input-clear {
+        position: absolute;
+        top: 50%;
+        right: 0;
+        color: #ed6d20;
+        font-size: 20px;
+        transform: translateY(-50%) rotate(0deg);
+        transition: all 0.3s linear;
+    }
+
+    .search-courses-input-clear:hover {
+        cursor: pointer;
+        opacity: 0.5;
+    }
+
+    .search-courses-btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+        background-color: #ed6d20;
+        padding: 0 36px;
+        border-radius: 5px;
+
+        color: #ffffff;
+        font-size: 20px;
+        transition: all 0.3s linear;
+    }
+
+    .search-courses-btn:hover {
+        cursor: pointer;
+        opacity: 0.5;
+    }
+
+
+    .search-courses-history-wrapper {
+        position: absolute;
+        top: calc(100% + 5px);
+        left: 0;
+
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+
+        width: 100%;
+        max-height: 300px;
+        padding: 24px 16px;
+        background-color: #ffffff;
+        border-radius: 5px;
+        box-shadow: 0 4px 20px #00000026;
+        z-index: 3;
+
+        overflow: auto;
+        scrollbar-width: thin;
+        scrollbar-color: #ccc transparent;
+    }
+    
+    .search-courses-history-wrapper::-webkit-scrollbar {
+        width: 5px;
+    }
+
+    .search-courses-history-wrapper::-webkit-scrollbar-thumb {
+        background-color: #ccc;
+        border-radius: 4px;
+    }
+
+    .search-courses-history-wrapper::-webkit-scrollbar-track {
+        background: transparent;
+    }
+
+    .search-courses-history-title {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        h1 {
+            font-family: "Open Sans", sans-serif;
+            font-size: 16px;
+            font-weight: 600;
+            color: #000000;
+        }
+
+        span {
+            font-family: "Open Sans", sans-serif;
+            font-size: 14px;
+            font-weight: 600;
+            color: #ed6d20; 
+            transition: all 0.3s linear;
+        }
+
+        span:hover {
+            cursor: pointer;
+            opacity: 0.5;
+        }
+    }
+
+    .search-courses-history-menu {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .search-courses-history-menu-item {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 6px 12px;
+        border-radius: 5px;
+        transition: all 0.3s linear;
+
+        p {
+            font-family: "Open Sans", sans-serif;
+            font-size: 14px;
+            font-weight: 600;
+            color: #525252; 
+
+            width: 60%;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        span {
+            font-family: "Open Sans", sans-serif;
+            font-size: 16px;
+            font-weight: 600;
+            color: #525252;
+            transition: all 0.3s linear; 
+        }
+
+        span:hover {
+            color: #ed6d20;
+        }
+    }
+
+    .search-courses-history-menu-item:hover {
+        cursor: pointer;
+        background-color: #f0f0f0;
+    }
+}
