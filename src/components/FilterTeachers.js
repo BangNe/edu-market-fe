@@ -1,90 +1,92 @@
 import { useEffect, useState } from 'react'
 
 import { getTeachers } from '../services/TeachersSevices'
-import { useCourses } from '../context/CourseContext'
 import { getCoursesFilter } from '../services/CoursesSevices'
+import { useCourses } from '../context/CourseContext'
 
 import FilterBox from './FilterBox'
 import InputCheck from './InputCheck'
 
 const FilterTeachers = () => {
-    const {setDataCourses, coursesFilter, setCoursesFilter, setIsLoadingCourses,setLengthCourses} = useCourses()
+  const {
+    setDataCourses,
+    coursesFilter,
+    setCoursesFilter,
+    setIsLoadingCourses,
+    setLengthCourses,
+  } = useCourses()
 
-    const [teachersData, setTeachersData] = useState([])
-    const [isExpanded, setIsExpanded] = useState(false)
-    const [isLoading,setIsLoading] = useState(false)
+  const [teachersRes, setTeachersRes] = useState(null)
+  const [isExpanded, setIsExpanded] = useState(false)
+  const [isLoading, setIsLoading] = useState(false)
 
-    //limit teachers data 
-    const visibleTeachers = isExpanded ? teachersData : teachersData.slice(0, 4)
+  const visibleTeachers = isExpanded
+    ? teachersRes?.data || []
+    : (teachersRes?.data || []).slice(0, 4)
 
-    //get all teacher
-    useEffect(() => {
-        const fetchTeachers = async () => {
-
-            setIsLoading(true)
-            try {
-                
-                const data = await getTeachers()
-
-                setTeachersData(data)
-            } catch (error) {
-                console.log(error)
-            } finally {
-                setIsLoading(false)
-            }
-        }
-
-        fetchTeachers()
-    },[])
-    //
-
-    //handle check input radio
-    const handleCheckInput = async (id) => {
-        if (id === coursesFilter.teacherId) return
-
-        setCoursesFilter(prev => ({
-            ...prev,
-            teacherId: id
-        }))
-
-        setIsLoadingCourses(true)
-
-        try {
-            const filter = {...coursesFilter, teacherId: id}
-            const data = await getCoursesFilter(filter)
-            setDataCourses(data)
-            setLengthCourses(data.length)
-        } catch (error) {
-            console.log(error)
-        } finally {
-            setIsLoadingCourses(false)
-        }
+  // Fetch teacher
+  useEffect(() => {
+    const fetchTeachers = async () => {
+      setIsLoading(true)
+      try {
+        const res = await getTeachers()
+        setTeachersRes(res)
+      } catch (error) {
+        setTeachersRes(error)
+      } finally {
+        setIsLoading(false)
+      }
     }
+
+    fetchTeachers()
+  }, [])
+  
+  // Handle select teacher
+  const handleCheckInput = async (id) => {
+    if (id === coursesFilter.teacherId) return
+
+    const updatedFilter = { ...coursesFilter, teacherId: id }
+
+    setCoursesFilter(updatedFilter)
+    setIsLoadingCourses(true)
+
+    try {
+      const res = await getCoursesFilter(updatedFilter)
+      setDataCourses(res)
+      setLengthCourses(res?.data?.length || 0)
+    } catch (error) {
+      setDataCourses(error)
+      setLengthCourses(0)
+    } finally {
+      setIsLoadingCourses(false)
+    }
+  }
 
   return (
     <FilterBox
-        title={'Giáo viên'}
-        isExpanded = {isExpanded}
-        isVisibleData={teachersData?.length > 4}
-        onSetIsExpanded={setIsExpanded}
-        isLoading={isLoading}
+      title="Giáo viên"
+      isExpanded={isExpanded}
+      isVisibleData={teachersRes?.data?.length > 4}
+      onSetIsExpanded={setIsExpanded}
+      isLoading={isLoading}
     >
-        <div className='filter-courses-box-list'>
-            {visibleTeachers?.map(teacher => {
-                return (
-                    <div className='filter-courses-box-item'
-                        key={teacher.id}
-                        onClick={() => handleCheckInput(teacher.id)}
-                    >
-                        <InputCheck
-                            type={'radio'}
-                            isChecked ={teacher.id === coursesFilter.teacherId}
-                            text={teacher.name}                       
-                        />
-                    </div>
-                )
-            })}
+      {teachersRes?.isSuccess && visibleTeachers.length > 0 && (
+        <div className="filter-courses-box-list">
+          {visibleTeachers?.map((teacher) => (
+            <div
+              className="filter-courses-box-item"
+              key={teacher.id}
+              onClick={() => handleCheckInput(teacher.id)}
+            >
+              <InputCheck
+                type="radio"
+                isChecked={teacher.id === coursesFilter.teacherId}
+                text={teacher.name}
+              />
+            </div>
+          ))}
         </div>
+      )}
     </FilterBox>
   )
 }

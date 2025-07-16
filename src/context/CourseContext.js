@@ -4,7 +4,7 @@ const CourseContext = createContext()
 
 export const CourseProvider = ({ children }) => {
     const [isLoadingCourses, setIsLoadingCourses] = useState(false)
-    const [dataCourses, setDataCourses] = useState([])
+    const [dataCourses, setDataCourses] = useState({})
     const [lengthCourses, setLengthCourses] = useState(null)
     const [coursesFilter, setCoursesFilter] = useState ({
         name: '',

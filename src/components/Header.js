@@ -24,7 +24,7 @@ const Header = () => {
             <span>Khóa học</span>
           </NavLink>
           <NavLink
-            to='/courses'
+            to='/favorites'
             className={({ isActive }) =>
               `header-nav-item ${isActive ? 'active' : ''}`
             }

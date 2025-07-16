@@ -1,9 +1,9 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 
-import HomePage from "./pages/HomePage"
 import CoursesPage from "./pages/CoursesPage"
-
-import { CourseProvider } from "./context/CourseContext";
+import FavoritesPage from "./pages/FavoritesPage"
+import DetailCoursePage from "./pages/DetailCoursePage"
+import { CourseProvider } from "./context/CourseContext"
 
 function App() {
   return (
@@ -11,7 +11,8 @@ function App() {
       <Router>
         <div className="App">
           <Routes>
-            <Route path="/favourite" element={<HomePage />}/>
+            <Route path="/detail-course/:slug" element={<DetailCoursePage />}/>
+            <Route path="/favorites" element={<FavoritesPage />}/>
             <Route path="/" element={<CoursesPage />}/>
           </Routes>
         </div>

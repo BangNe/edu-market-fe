@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect } from 'react'
 
 import { getCoursesFilter } from '../services/CoursesSevices'
 import { useCourses } from '../context/CourseContext'
@@ -9,21 +9,26 @@ import CourseCard from './CourseCard'
 import CourseCartLoad from './CourseCardLoad'
 
 const CoursesList = () => {
-  const {dataCourses, setDataCourses, coursesFilter, isLoadingCourses, setIsLoadingCourses,setLengthCourses} = useCourses()
+  const {
+    dataCourses,
+    setDataCourses,
+    coursesFilter,
+    isLoadingCourses,
+    setIsLoadingCourses,
+    setLengthCourses,
+  } = useCourses()
 
-  //get all courses
+  //get courses
   useEffect(() => {
     const fetchCourses = async () => {
-
       setIsLoadingCourses(true)
-
       try {
-        const data = await getCoursesFilter(coursesFilter)
-
-        setDataCourses(data)
-        setLengthCourses(data?.length)
+        const res = await getCoursesFilter(coursesFilter)
+        setDataCourses(res)
+        setLengthCourses(res?.data?.length || 0)
       } catch (error) {
-        console.error(error)
+        setDataCourses(error)
+        setLengthCourses(0)
       } finally {
         setIsLoadingCourses(false)
       }
@@ -34,16 +39,22 @@ const CoursesList = () => {
 
   return (
     <div className='courses-list-wrapper'>
-        <div className='courses-list-search'>
-            <SearchCourses/>
-        </div>
+      <div className='courses-list-search'>
+        <SearchCourses />
+      </div>
 
-        {isLoadingCourses ? (
-          <div className='courses-list-inner'>
-            <CourseCartLoad />
-          </div>
-        ) : dataCourses.length > 0 ? (
-          <Pagination data={dataCourses} quantity={6}>
+      {isLoadingCourses ? (
+        <div className='courses-list-inner'>
+          <CourseCartLoad />
+        </div>
+      ) : !dataCourses?.isSuccess || !dataCourses?.data?.length ? (
+        <div className='courses-list-no-data-wrapper'>
+          <span><i className="fa-solid fa-inbox"></i></span>
+          <p>{dataCourses?.message || 'Không tìm thấy kết quả ...'}</p>
+        </div>
+      ) : (
+        <div className='courses-list-inner-wrapper'>
+          <Pagination data={dataCourses?.data} quantity={6}>
             {(currentData) => (
               <div className='courses-list-inner'>
                 {currentData.map((course) => (
@@ -54,12 +65,8 @@ const CoursesList = () => {
               </div>
             )}
           </Pagination>
-        ) : (
-          <div className='courses-list-no-data-wrapper'>
-            <span><i className="fa-solid fa-inbox"></i></span>
-            <p>Không tìm thấy kết quả ...</p>
-          </div>
-        )}
+        </div>
+      )}
     </div>
   )
 }

@@ -1,0 +1,120 @@
+.courses-slide-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 940px;
+  gap: 40px;
+
+  .courses-slide-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .courses-slide-top-title {
+    font-size: 32px;
+    font-weight: 700;
+    color: #111322;
+  }
+
+  .courses-slide-top-btn {
+    display: flex;
+    gap: 20px;
+
+    .courses-slide-top-btn-item {
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      background-color: #f0f0f0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: 0.3s;
+
+      span {
+        font-size: 20px;
+      }
+
+      &.disabled {
+        opacity: 0.3;
+        pointer-events: none;
+      }
+
+      &:hover:not(.disabled) {
+        opacity: 0.6;
+      }
+    }
+  }
+
+  .courses-slide-box {
+    overflow: hidden;
+    width: 100%;
+  }
+
+  .courses-slide-track {
+    display: flex;
+    gap: 20px;
+    padding: 20px 0;
+    transition: transform 0.2s ease;
+    will-change: transform;
+  }
+
+  .courses-slide-box-item {
+    flex-shrink: 0;
+    width: 300px;
+  }
+}
+
+@media (max-width: 1075px) {
+  .courses-slide-wrapper {
+    width: 560px;
+
+    .courses-slide-box-item {
+      width: 270px;
+    }
+  }
+}
+
+@media (max-width: 630px) {
+  .courses-slide-wrapper {
+    width: 370px;
+
+    .courses-slide-top {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 20px;
+    }
+
+    .courses-slide-top-btn {
+      justify-content: flex-end;
+      width: 100%;
+    }
+
+    .courses-slide-box-item {
+      width: 350px;
+    }
+  }
+}
+
+@media (max-width: 430px) {
+  .courses-slide-wrapper {
+    width: 320px;
+
+    .courses-slide-top {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 20px;
+    }
+
+    .courses-slide-top-btn {
+      justify-content: flex-end;
+      width: 100%;
+    }
+
+    .courses-slide-box-item {
+      width: 300px;
+    }
+  }
+}

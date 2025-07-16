@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 
-import {getCategories} from '../services/CategoriesSevices'
+import { getCategories } from '../services/CategoriesSevices'
 import { getCoursesFilter } from '../services/CoursesSevices'
 import { useCourses } from '../context/CourseContext'
 
@@ -8,88 +8,88 @@ import FilterBox from './FilterBox'
 import InputCheck from './InputCheck'
 
 const FilterCategories = () => {
+  const {
+    setDataCourses,
+    coursesFilter,
+    setCoursesFilter,
+    setIsLoadingCourses,
+    setLengthCourses
+  } = useCourses()
 
-  const {setDataCourses, coursesFilter, setCoursesFilter, setIsLoadingCourses,setLengthCourses} = useCourses()
-
-  const [dataCategories, setDataCategories] = useState([])
+  const [categoriesRes, setCategoriesRes] = useState(null)
   const [isLoading, setIsLoading] = useState(false)
-  const [isExpanded,setIsExpanded] = useState(false)
+  const [isExpanded, setIsExpanded] = useState(false)
 
-  const visibleData = isExpanded ? dataCategories : dataCategories.slice(0, 9)
+  const visibleData = isExpanded
+    ? categoriesRes?.data || []
+    : (categoriesRes?.data || []).slice(0, 9)
 
-  //get all categories data
+  // get all categories
   useEffect(() => {
     const fetchCategories = async () => {
       setIsLoading(true)
-
       try {
-        const data = await getCategories()
-
-        setDataCategories(data)
+        const res = await getCategories()
+        setCategoriesRes(res)
       } catch (error) {
-        console.log(error)
+        setCategoriesRes(error)
       } finally {
         setIsLoading(false)
       }
     }
 
     fetchCategories()
-  },[])
-  //
+  }, [])
 
-  //handle check input checkkbox category
+  // handle category checkbox
   const handleCheckCategory = async (id) => {
     const checked = coursesFilter?.categoryId?.includes(id)
-    
-    const filtered = checked 
-    ? coursesFilter?.categoryId?.filter(item => item !== id)
-    : [...coursesFilter?.categoryId, id]
+    const filtered = checked
+      ? coursesFilter.categoryId.filter(item => item !== id)
+      : [...coursesFilter.categoryId, id]
 
-    setCoursesFilter(prev => ({
-      ...prev,
-      categoryId : filtered
-    }))
+    const updatedFilter = { ...coursesFilter, categoryId: filtered }
 
-    setIsLoadingCourses(true) 
+    setCoursesFilter(updatedFilter)
+    setIsLoadingCourses(true)
 
     try {
-      const filterObj = {...coursesFilter,categoryId : filtered}
-      const data = await getCoursesFilter(filterObj)
-      setDataCourses(data)
-      setLengthCourses(data.length)
+      const res = await getCoursesFilter(updatedFilter)
+      setDataCourses(res)
+      setLengthCourses(res?.data?.length || 0)
     } catch (error) {
-      
+      setDataCourses(error)
+      setLengthCourses(0)
     } finally {
       setIsLoadingCourses(false)
     }
   }
-  //
 
   return (
     <FilterBox
-      title={'Môn học'}
+      title="Môn học"
       isExpanded={isExpanded}
-      isVisibleData={dataCategories.length > 9}
+      isVisibleData={categoriesRes?.data?.length > 9}
       onSetIsExpanded={setIsExpanded}
       isLoading={isLoading}
     >
-      <div className='filter-courses-box-list-category'>
-        {visibleData?.map(category => {
-          return (
-            <div className='filter-courses-box-item'
+      {categoriesRes?.isSuccess && visibleData.length > 0 && (
+        <div className="filter-courses-box-list-category">
+          {visibleData.map((category) => (
+            <div
+              className="filter-courses-box-item"
               key={category.id}
               onClick={() => handleCheckCategory(category.id)}
             >
               <InputCheck
-                type={'checkbox'}
-                isChecked={coursesFilter?.categoryId.includes(category.id)}
+                type="checkbox"
+                isChecked={coursesFilter.categoryId.includes(category.id)}
                 text={category.name}
               />
             </div>
-          )
-        })}
-        
-      </div>
+          ))}
+        </div>
+      )}
     </FilterBox>
   )
 }

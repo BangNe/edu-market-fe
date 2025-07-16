@@ -33,17 +33,29 @@ html, body {
 //import filter box
 @import 'filter_box';
 
+//import favorites course
+@import 'favorites_course';
+
 //import search courses
 @import 'search_courses';
 
 //import courses card
 @import 'course_card';
 
+//import course slide
+@import 'courses_slide';
+
 //import course card load
 @import 'course_card_load';
 
 //import pagination
 @import 'pagination';
+
+//import detail course
+@import 'detail_course';
+
+//iomport toast 
+@import 'toast';
 
 //import courses page
 @import 'courses_page';

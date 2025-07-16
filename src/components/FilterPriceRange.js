@@ -35,15 +35,15 @@ const FilterPriceRange =() => {
             setIsLoading(true)
 
             try {
-                const data = await getMinMaxCoursePrice()
-                setPriceRangeCheck(data)
+                const res = await getMinMaxCoursePrice()
+                setPriceRangeCheck(res)
                 setCoursesFilter(prev =>({
                     ...prev,
-                    minPrice: data?.minPrice,
-                    maxPrice: data?.maxPrice
+                    minPrice: res?.data?.minPrice,
+                    maxPrice: res?.data?.maxPrice
                 }))
             } catch (error) {
-                console.log(error)
+                priceRangeCheck(error)
             } finally {
                 setIsLoading(false)
             }
@@ -51,7 +51,6 @@ const FilterPriceRange =() => {
 
         fetchPricieRange()
     },[])
-    //
 
     // get courses filter
     useEffect(() => {
@@ -77,12 +76,13 @@ const FilterPriceRange =() => {
                     maxPrice: debouncedMaxPrice,
                 }
 
-                const data = await getCoursesFilter(filtered)
+                const res = await getCoursesFilter(filtered)
                 
-                setDataCourses(data)
-                setLengthCourses(data.length)
+                setDataCourses(res)
+                setLengthCourses(res?.data?.length || 0)
             } catch (error) {
-                console.error(error)
+                setDataCourses(error)
+                setLengthCourses(0)
             } finally {
                 setIsLoadingCourses(false)
             }
@@ -91,20 +91,18 @@ const FilterPriceRange =() => {
         fetchCourses()
 
     }, [debouncedMinPrice, debouncedMaxPrice])
-    //
 
     //update progressbar when price change
     useEffect(() => {
         if (
-            coursesFilter.minPrice !== undefined &&
-            coursesFilter.maxPrice !== undefined &&
-            priceRangeCheck.minPrice !== undefined &&
-            priceRangeCheck.maxPrice !== undefined
+            coursesFilter?.minPrice !== undefined &&
+            coursesFilter?.maxPrice !== undefined &&
+            priceRangeCheck?.data?.minPrice !== undefined &&
+            priceRangeCheck?.data?.maxPrice !== undefined
         ) {
             updateProgressBar(coursesFilter.minPrice, coursesFilter.maxPrice)
         }
     }, [coursesFilter.minPrice, coursesFilter.maxPrice])
-    //
 
     //format to style vnd
     const formatToVND = (amount) => {
@@ -113,7 +111,6 @@ const FilterPriceRange =() => {
         currency: 'VND',
         }).format(amount)
     }
-    //
 
     //handle change min price input
     const handleChangeMinPriceInput = (e) => {
@@ -124,7 +121,6 @@ const FilterPriceRange =() => {
         }
 
     }
-    //
 
     //handle blur min price input
     const handleBlurMinPriceInput = () => {
@@ -136,16 +132,16 @@ const FilterPriceRange =() => {
 
         switch (true) {
             // value search < min price
-            case num < priceRangeCheck.minPrice:
+            case num < priceRangeCheck?.data?.minPrice:
 
                 setCoursesFilter(prev => ({
                     ...prev,
-                    minPrice: priceRangeCheck.minPrice
+                    minPrice: priceRangeCheck?.data?.minPrice
                 }))
 
                 setMinPriceSearch('')
 
-                updateProgressBar(priceRangeCheck.minPrice,coursesFilter.maxPrice)
+                updateProgressBar(priceRangeCheck?.data?.minPrice,coursesFilter.maxPrice)
                 break
 
             // value search > max price search
@@ -175,6 +171,8 @@ const FilterPriceRange =() => {
                 break
         }
 
+        setIsLoadingCourses(false)
+
     }
     //
 
@@ -199,16 +197,16 @@ const FilterPriceRange =() => {
 
         switch (true) {
             // value search > max price
-            case num > coursesFilter.maxPrice:
+            case num > priceRangeCheck?.data?.maxPrice:
 
                 setCoursesFilter(prev => ({
                     ...prev,
-                    maxPrice: coursesFilter.maxPrice
+                    maxPrice: priceRangeCheck?.data?.maxPrice
                 }))
 
                 setMaxPriceSearch('')
 
-                updateProgressBar(coursesFilter.minPrice,coursesFilter.maxPrice)
+                updateProgressBar(coursesFilter.minPrice,priceRangeCheck?.data?.maxPrice)
                 break
 
             // value search < min price
@@ -237,6 +235,8 @@ const FilterPriceRange =() => {
                 updateProgressBar(coursesFilter.minPrice,num)
                 break
         }
+
+        setIsLoadingCourses(false)
 
     }
     //
@@ -275,10 +275,10 @@ const FilterPriceRange =() => {
     const updateProgressBar = (minValue, maxValue) => {
         if (!sliderPriceInput.current) return
 
-        const range = priceRangeCheck.maxPrice - priceRangeCheck.minPrice;
+        const range = priceRangeCheck?.data?.maxPrice - priceRangeCheck?.data?.minPrice;
 
-        const leftPercent = ((minValue - priceRangeCheck.minPrice) / range) * 100
-        const rightPercent = 100 - ((maxValue - priceRangeCheck.minPrice) / range) * 100
+        const leftPercent = ((minValue - priceRangeCheck?.data?.minPrice) / range) * 100
+        const rightPercent = 100 - ((maxValue - priceRangeCheck?.data?.minPrice) / range) * 100
 
         sliderPriceInput.current.style.left = `${leftPercent}%`
         sliderPriceInput.current.style.right = `${rightPercent}%`
@@ -330,8 +330,8 @@ const FilterPriceRange =() => {
                     <input
                         className={`min-thumb ${activeThumb === 'min' ? 'thumb-active' : ''}`}
                         type="range"
-                        min={priceRangeCheck?.minPrice || 0}
-                        max={priceRangeCheck?.maxPrice || 0}
+                        min={priceRangeCheck?.data?.minPrice || 0}
+                        max={priceRangeCheck?.data?.maxPrice || 0}
                         value={coursesFilter?.minPrice || 0}
                         onChange={e => handleSlideMinPrice(e)}
                         onMouseDown={() => setActiveThumb('min')}
@@ -339,8 +339,8 @@ const FilterPriceRange =() => {
                     <input
                         className={`max-thumb ${activeThumb === 'max' ? 'thumb-active' : ''}`}
                         type="range"
-                        min={priceRangeCheck?.minPrice || 0}
-                        max={priceRangeCheck?.maxPrice || 0}
+                        min={priceRangeCheck?.data?.minPrice || 0}
+                        max={priceRangeCheck?.data?.maxPrice || 0}
                         value={coursesFilter?.maxPrice || 0}
                         onChange={e => handleSlideMaxPrice(e)}
                         onMouseDown={() => setActiveThumb('max')}

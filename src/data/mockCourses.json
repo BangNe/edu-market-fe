@@ -14,10 +14,12 @@
     "enrollment": 1907,
     "createdAt": "2025-01-03T18:43:07.457483",
     "lessons": [
-      5,
-      2,
+      8,
+      10,
+      1,
       6,
-      4
+      2,
+      3
     ],
     "durationTime": 3172,
     "tags": [
@@ -27,7 +29,8 @@
     "isFeatured": true,
     "teacher": "Phạm Văn C",
     "category": "Toán",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2025-03-03T18:43:07.457483"
   },
   {
     "id": 2,
@@ -44,9 +47,10 @@
     "enrollment": 1802,
     "createdAt": "2024-12-23T18:43:07.457559",
     "lessons": [
-      6,
-      5,
-      4
+      1,
+      7,
+      9,
+      10
     ],
     "durationTime": 11416,
     "tags": [
@@ -58,7 +62,8 @@
     "isFeatured": true,
     "teacher": "Hoàng Thị F",
     "category": "Anh",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2025-02-09T18:43:07.457559"
   },
   {
     "id": 3,
@@ -75,9 +80,11 @@
     "enrollment": 712,
     "createdAt": "2025-05-04T18:43:07.457582",
     "lessons": [
-      2,
-      4,
-      6
+      1,
+      7,
+      3,
+      6,
+      8
     ],
     "durationTime": 9896,
     "tags": [
@@ -87,7 +94,8 @@
     "isFeatured": true,
     "teacher": "Vũ Văn I",
     "category": "Lý",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2025-06-28T18:43:07.457582"
   },
   {
     "id": 4,
@@ -104,9 +112,8 @@
     "enrollment": 456,
     "createdAt": "2025-01-10T18:43:07.457600",
     "lessons": [
-      1,
-      2,
-      6
+      10,
+      3
     ],
     "durationTime": 10538,
     "tags": [
@@ -116,7 +123,8 @@
     "isFeatured": false,
     "teacher": "Đinh Thị J",
     "category": "Anh",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2025-01-19T18:43:07.457600"
   },
   {
     "id": 5,
@@ -133,8 +141,8 @@
     "enrollment": 944,
     "createdAt": "2024-07-12T18:43:07.457615",
     "lessons": [
-      5,
-      4
+      9,
+      7
     ],
     "durationTime": 10924,
     "tags": [
@@ -144,7 +152,8 @@
     "isFeatured": true,
     "teacher": "Vũ Văn I",
     "category": "Toán",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2024-08-16T18:43:07.457615"
   },
   {
     "id": 6,
@@ -161,9 +170,11 @@
     "enrollment": 2001,
     "createdAt": "2025-05-22T18:43:07.457630",
     "lessons": [
-      5,
+      1,
       6,
-      1
+      7,
+      2,
+      5
     ],
     "durationTime": 15042,
     "tags": [
@@ -174,7 +185,8 @@
     "isFeatured": true,
     "teacher": "Nguyễn Văn A",
     "category": "Lý",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2025-06-18T18:43:07.457630"
   },
   {
     "id": 7,
@@ -191,8 +203,9 @@
     "enrollment": 1224,
     "createdAt": "2025-03-12T18:43:07.457666",
     "lessons": [
-      6,
-      2
+      2,
+      1,
+      4
     ],
     "durationTime": 5548,
     "tags": [
@@ -203,7 +216,8 @@
     "isFeatured": true,
     "teacher": "Trần Thị D",
     "category": "Sinh",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2025-05-02T18:43:07.457666"
   },
   {
     "id": 8,
@@ -221,8 +235,9 @@
     "createdAt": "2025-03-07T18:43:07.457695",
     "lessons": [
       4,
+      10,
       2,
-      1
+      6
     ],
     "durationTime": 10999,
     "tags": [
@@ -232,7 +247,8 @@
     "isFeatured": true,
     "teacher": "Ngô Thị H",
     "category": "Hóa",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2025-03-19T18:43:07.457695"
   },
   {
     "id": 9,
@@ -249,9 +265,12 @@
     "enrollment": 2031,
     "createdAt": "2025-05-25T18:43:07.457720",
     "lessons": [
-      4,
+      8,
       1,
-      5
+      6,
+      9,
+      5,
+      2
     ],
     "durationTime": 11234,
     "tags": [
@@ -261,7 +280,8 @@
     "isFeatured": true,
     "teacher": "Phạm Văn C",
     "category": "Anh",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2025-06-03T18:43:07.457720"
   },
   {
     "id": 10,
@@ -278,9 +298,11 @@
     "enrollment": 1843,
     "createdAt": "2025-06-06T18:43:07.457735",
     "lessons": [
-      6,
+      10,
+      8,
       1,
-      4
+      5,
+      3
     ],
     "durationTime": 6829,
     "tags": [
@@ -292,7 +314,8 @@
     "isFeatured": true,
     "teacher": "Phạm Văn C",
     "category": "Văn",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2025-07-25T18:43:07.457735"
   },
   {
     "id": 11,
@@ -309,8 +332,11 @@
     "enrollment": 2688,
     "createdAt": "2024-12-04T18:43:07.457749",
     "lessons": [
+      3,
+      2,
       5,
-      6
+      8,
+      7
     ],
     "durationTime": 2867,
     "tags": [
@@ -321,7 +347,8 @@
     "isFeatured": true,
     "teacher": "Đinh Thị J",
     "category": "Anh",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2024-12-19T18:43:07.457749"
   },
   {
     "id": 12,
@@ -338,9 +365,9 @@
     "enrollment": 2152,
     "createdAt": "2024-08-22T18:43:07.457762",
     "lessons": [
-      4,
-      6,
-      1
+      3,
+      2,
+      5
     ],
     "durationTime": 15451,
     "tags": [
@@ -350,7 +377,8 @@
     "isFeatured": false,
     "teacher": "Nguyễn Thị B",
     "category": "Văn",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2024-10-11T18:43:07.457762"
   },
   {
     "id": 13,
@@ -367,8 +395,12 @@
     "enrollment": 2180,
     "createdAt": "2024-11-10T18:43:07.457774",
     "lessons": [
+      10,
+      6,
+      7,
+      9,
       5,
-      2
+      3
     ],
     "durationTime": 16889,
     "tags": [
@@ -380,7 +412,8 @@
     "isFeatured": true,
     "teacher": "Lê Văn E",
     "category": "Lý",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2024-11-13T18:43:07.457774"
   },
   {
     "id": 14,
@@ -397,8 +430,11 @@
     "enrollment": 274,
     "createdAt": "2024-10-02T18:43:07.457787",
     "lessons": [
-      2,
-      4
+      7,
+      4,
+      6,
+      9,
+      10
     ],
     "durationTime": 3882,
     "tags": [
@@ -409,7 +445,8 @@
     "isFeatured": false,
     "teacher": "Vũ Văn I",
     "category": "Sinh",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2024-11-10T18:43:07.457787"
   },
   {
     "id": 15,
@@ -426,10 +463,11 @@
     "enrollment": 2295,
     "createdAt": "2024-10-12T18:43:07.457800",
     "lessons": [
-      5,
-      2,
       6,
-      1
+      5,
+      3,
+      1,
+      7
     ],
     "durationTime": 2737,
     "tags": [
@@ -441,7 +479,8 @@
     "isFeatured": true,
     "teacher": "Trần Thị D",
     "category": "Toán",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2024-10-29T18:43:07.457800"
   },
   {
     "id": 16,
@@ -458,9 +497,8 @@
     "enrollment": 230,
     "createdAt": "2025-03-08T18:43:07.457813",
     "lessons": [
-      1,
-      5,
-      4
+      4,
+      6
     ],
     "durationTime": 16786,
     "tags": [
@@ -472,7 +510,8 @@
     "isFeatured": true,
     "teacher": "Nguyễn Văn A",
     "category": "Văn",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2025-04-06T18:43:07.457813"
   },
   {
     "id": 17,
@@ -489,10 +528,11 @@
     "enrollment": 337,
     "createdAt": "2025-06-19T18:43:07.457825",
     "lessons": [
-      6,
+      3,
+      1,
+      10,
       4,
-      5,
-      1
+      7
     ],
     "durationTime": 9294,
     "tags": [
@@ -503,7 +543,8 @@
     "isFeatured": true,
     "teacher": "Đặng Văn G",
     "category": "Lý",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2025-06-25T18:43:07.457825"
   },
   {
     "id": 18,
@@ -520,10 +561,12 @@
     "enrollment": 1603,
     "createdAt": "2024-08-13T18:43:07.457837",
     "lessons": [
-      2,
-      6,
       4,
-      1
+      9,
+      8,
+      10,
+      1,
+      5
     ],
     "durationTime": 14024,
     "tags": [
@@ -533,7 +576,8 @@
     "isFeatured": false,
     "teacher": "Ngô Thị H",
     "category": "Lý",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2024-08-25T18:43:07.457837"
   },
   {
     "id": 19,
@@ -550,10 +594,11 @@
     "enrollment": 2477,
     "createdAt": "2025-03-19T18:43:07.457850",
     "lessons": [
-      6,
+      4,
+      10,
       1,
       2,
-      5
+      9
     ],
     "durationTime": 9724,
     "tags": [
@@ -565,7 +610,8 @@
     "isFeatured": true,
     "teacher": "Ngô Thị H",
     "category": "Toán",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2025-04-11T18:43:07.457850"
   },
   {
     "id": 20,
@@ -582,8 +628,11 @@
     "enrollment": 397,
     "createdAt": "2024-08-07T18:43:07.457871",
     "lessons": [
-      4,
-      2
+      2,
+      9,
+      6,
+      3,
+      1
     ],
     "durationTime": 3683,
     "tags": [
@@ -595,7 +644,8 @@
     "isFeatured": false,
     "teacher": "Đặng Văn G",
     "category": "Sinh",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2024-08-25T18:43:07.457871"
   },
   {
     "id": 21,
@@ -613,8 +663,9 @@
     "createdAt": "2024-12-08T18:43:07.457885",
     "lessons": [
       4,
+      9,
       5,
-      6
+      7
     ],
     "durationTime": 11066,
     "tags": [
@@ -624,7 +675,8 @@
     "isFeatured": false,
     "teacher": "Đặng Văn G",
     "category": "Hóa",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2024-12-19T18:43:07.457885"
   },
   {
     "id": 22,
@@ -641,10 +693,10 @@
     "enrollment": 656,
     "createdAt": "2025-06-29T18:43:07.457897",
     "lessons": [
-      5,
-      4,
-      1,
-      6
+      6,
+      9,
+      7,
+      4
     ],
     "durationTime": 13699,
     "tags": [
@@ -655,7 +707,8 @@
     "isFeatured": false,
     "teacher": "Lê Văn E",
     "category": "Anh",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2025-07-16T18:43:07.457897"
   },
   {
     "id": 23,
@@ -672,8 +725,10 @@
     "enrollment": 135,
     "createdAt": "2025-03-09T18:43:07.457909",
     "lessons": [
-      6,
-      4
+      9,
+      10,
+      8,
+      1
     ],
     "durationTime": 8300,
     "tags": [
@@ -683,7 +738,8 @@
     "isFeatured": false,
     "teacher": "Vũ Văn I",
     "category": "Hóa",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2025-04-12T18:43:07.457909"
   },
   {
     "id": 24,
@@ -700,10 +756,11 @@
     "enrollment": 2632,
     "createdAt": "2025-04-03T18:43:07.457922",
     "lessons": [
+      2,
+      7,
       5,
-      1,
-      6,
-      2
+      9,
+      10
     ],
     "durationTime": 12698,
     "tags": [
@@ -713,7 +770,8 @@
     "isFeatured": false,
     "teacher": "Đinh Thị J",
     "category": "Lý",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2025-05-17T18:43:07.457922"
   },
   {
     "id": 25,
@@ -730,8 +788,11 @@
     "enrollment": 887,
     "createdAt": "2024-09-09T18:43:07.457942",
     "lessons": [
-      1,
-      5
+      10,
+      7,
+      6,
+      5,
+      8
     ],
     "durationTime": 8603,
     "tags": [
@@ -741,7 +802,8 @@
     "isFeatured": true,
     "teacher": "Hoàng Thị F",
     "category": "Anh",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2024-09-26T18:43:07.457942"
   },
   {
     "id": 26,
@@ -759,7 +821,8 @@
     "createdAt": "2025-05-14T18:43:07.457957",
     "lessons": [
       6,
-      5
+      1,
+      4
     ],
     "durationTime": 16495,
     "tags": [
@@ -770,7 +833,8 @@
     "isFeatured": false,
     "teacher": "Đặng Văn G",
     "category": "Lý",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2025-07-01T18:43:07.457957"
   },
   {
     "id": 27,
@@ -787,9 +851,12 @@
     "enrollment": 379,
     "createdAt": "2024-08-14T18:43:07.457970",
     "lessons": [
-      1,
       5,
-      6
+      3,
+      6,
+      8,
+      4,
+      9
     ],
     "durationTime": 4815,
     "tags": [
@@ -801,7 +868,8 @@
     "isFeatured": true,
     "teacher": "Nguyễn Văn A",
     "category": "Văn",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2024-09-26T18:43:07.457970"
   },
   {
     "id": 28,
@@ -818,9 +886,9 @@
     "enrollment": 2922,
     "createdAt": "2024-12-14T18:43:07.457983",
     "lessons": [
+      3,
       5,
-      1,
-      6
+      2
     ],
     "durationTime": 12140,
     "tags": [
@@ -832,7 +900,8 @@
     "isFeatured": true,
     "teacher": "Ngô Thị H",
     "category": "Lý",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2024-12-16T18:43:07.457983"
   },
   {
     "id": 29,
@@ -849,8 +918,8 @@
     "enrollment": 2747,
     "createdAt": "2025-06-09T18:43:07.457995",
     "lessons": [
-      4,
-      1
+      6,
+      5
     ],
     "durationTime": 14931,
     "tags": [
@@ -861,7 +930,8 @@
     "isFeatured": false,
     "teacher": "Vũ Văn I",
     "category": "Lý",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2025-07-19T18:43:07.457995"
   },
   {
     "id": 30,
@@ -878,8 +948,11 @@
     "enrollment": 2240,
     "createdAt": "2024-11-23T18:43:07.458019",
     "lessons": [
+      4,
+      5,
       1,
-      4
+      8,
+      7
     ],
     "durationTime": 7667,
     "tags": [
@@ -891,7 +964,8 @@
     "isFeatured": false,
     "teacher": "Nguyễn Thị B",
     "category": "Lý",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2024-11-26T18:43:07.458019"
   },
   {
     "id": 31,
@@ -908,8 +982,10 @@
     "enrollment": 2039,
     "createdAt": "2024-12-19T18:43:07.458032",
     "lessons": [
-      1,
-      6
+      6,
+      4,
+      8,
+      7
     ],
     "durationTime": 13804,
     "tags": [
@@ -919,7 +995,8 @@
     "isFeatured": true,
     "teacher": "Nguyễn Văn A",
     "category": "Văn",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2025-01-29T18:43:07.458032"
   },
   {
     "id": 32,
@@ -936,10 +1013,11 @@
     "enrollment": 1761,
     "createdAt": "2025-06-15T18:43:07.458044",
     "lessons": [
-      2,
-      4,
+      8,
       1,
-      6
+      9,
+      10,
+      7
     ],
     "durationTime": 2796,
     "tags": [
@@ -950,7 +1028,8 @@
     "isFeatured": false,
     "teacher": "Phạm Văn C",
     "category": "Hóa",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2025-07-02T18:43:07.458044"
   },
   {
     "id": 33,
@@ -967,9 +1046,11 @@
     "enrollment": 2695,
     "createdAt": "2024-12-26T18:43:07.458057",
     "lessons": [
-      1,
+      4,
       6,
-      2
+      7,
+      2,
+      9
     ],
     "durationTime": 13837,
     "tags": [
@@ -979,7 +1060,8 @@
     "isFeatured": true,
     "teacher": "Lê Văn E",
     "category": "Sinh",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2025-01-16T18:43:07.458057"
   },
   {
     "id": 34,
@@ -996,9 +1078,9 @@
     "enrollment": 1555,
     "createdAt": "2024-08-09T18:43:07.458070",
     "lessons": [
-      4,
-      5,
-      2
+      1,
+      2,
+      3
     ],
     "durationTime": 2925,
     "tags": [
@@ -1008,7 +1090,8 @@
     "isFeatured": false,
     "teacher": "Phạm Văn C",
     "category": "Văn",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2024-09-10T18:43:07.458070"
   },
   {
     "id": 35,
@@ -1025,8 +1108,9 @@
     "enrollment": 2693,
     "createdAt": "2024-11-08T18:43:07.458082",
     "lessons": [
-      6,
-      5
+      5,
+      10,
+      8
     ],
     "durationTime": 12219,
     "tags": [
@@ -1037,7 +1121,8 @@
     "isFeatured": false,
     "teacher": "Đặng Văn G",
     "category": "Toán",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2025-01-07T18:43:07.458082"
   },
   {
     "id": 36,
@@ -1054,9 +1139,11 @@
     "enrollment": 274,
     "createdAt": "2025-06-23T18:43:07.458095",
     "lessons": [
-      1,
-      6,
+      7,
       5,
+      6,
+      3,
+      10,
       4
     ],
     "durationTime": 7456,
@@ -1069,7 +1156,8 @@
     "isFeatured": true,
     "teacher": "Nguyễn Thị B",
     "category": "Anh",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2025-07-12T18:43:07.458095"
   },
   {
     "id": 37,
@@ -1086,10 +1174,9 @@
     "enrollment": 2436,
     "createdAt": "2024-11-28T18:43:07.458113",
     "lessons": [
-      6,
-      2,
-      5,
-      4
+      9,
+      3,
+      2
     ],
     "durationTime": 9395,
     "tags": [
@@ -1100,7 +1187,8 @@
     "isFeatured": false,
     "teacher": "Nguyễn Thị B",
     "category": "Sinh",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2025-01-27T18:43:07.458113"
   },
   {
     "id": 38,
@@ -1117,9 +1205,8 @@
     "enrollment": 827,
     "createdAt": "2024-09-07T18:43:07.458136",
     "lessons": [
-      6,
       5,
-      2
+      10
     ],
     "durationTime": 2218,
     "tags": [
@@ -1129,7 +1216,8 @@
     "isFeatured": true,
     "teacher": "Vũ Văn I",
     "category": "Hóa",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2024-09-27T18:43:07.458136"
   },
   {
     "id": 39,
@@ -1146,10 +1234,8 @@
     "enrollment": 2017,
     "createdAt": "2024-11-13T18:43:07.458149",
     "lessons": [
-      6,
       2,
-      1,
-      5
+      4
     ],
     "durationTime": 16835,
     "tags": [
@@ -1159,7 +1245,8 @@
     "isFeatured": false,
     "teacher": "Phạm Văn C",
     "category": "Toán",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2024-12-01T18:43:07.458149"
   },
   {
     "id": 40,
@@ -1176,7 +1263,7 @@
     "enrollment": 323,
     "createdAt": "2024-08-07T18:43:07.458163",
     "lessons": [
-      2,
+      10,
       1
     ],
     "durationTime": 8828,
@@ -1187,7 +1274,8 @@
     "isFeatured": false,
     "teacher": "Nguyễn Thị B",
     "category": "Anh",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2024-09-07T18:43:07.458163"
   },
   {
     "id": 41,
@@ -1204,7 +1292,7 @@
     "enrollment": 423,
     "createdAt": "2025-05-10T18:43:07.458175",
     "lessons": [
-      6,
+      8,
       4
     ],
     "durationTime": 7963,
@@ -1217,7 +1305,8 @@
     "isFeatured": true,
     "teacher": "Trần Thị D",
     "category": "Sinh",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2025-06-07T18:43:07.458175"
   },
   {
     "id": 42,
@@ -1234,8 +1323,12 @@
     "enrollment": 1649,
     "createdAt": "2024-09-08T18:43:07.458188",
     "lessons": [
-      6,
-      1
+      4,
+      10,
+      2,
+      1,
+      7,
+      6
     ],
     "durationTime": 11645,
     "tags": [
@@ -1246,7 +1339,8 @@
     "isFeatured": true,
     "teacher": "Trần Thị D",
     "category": "Hóa",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2024-09-23T18:43:07.458188"
   },
   {
     "id": 43,
@@ -1263,10 +1357,12 @@
     "enrollment": 2597,
     "createdAt": "2025-05-01T18:43:07.458205",
     "lessons": [
-      6,
-      1,
       5,
-      4
+      10,
+      3,
+      6,
+      8,
+      2
     ],
     "durationTime": 17129,
     "tags": [
@@ -1277,7 +1373,8 @@
     "isFeatured": false,
     "teacher": "Trần Thị D",
     "category": "Toán",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2025-05-21T18:43:07.458205"
   },
   {
     "id": 44,
@@ -1295,8 +1392,6 @@
     "createdAt": "2025-04-08T18:43:07.458224",
     "lessons": [
       6,
-      4,
-      5,
       2
     ],
     "durationTime": 4929,
@@ -1308,7 +1403,8 @@
     "isFeatured": false,
     "teacher": "Lê Văn E",
     "category": "Lý",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2025-05-02T18:43:07.458224"
   },
   {
     "id": 45,
@@ -1325,10 +1421,10 @@
     "enrollment": 2338,
     "createdAt": "2024-09-10T18:43:07.458390",
     "lessons": [
-      5,
+      1,
       4,
       2,
-      6
+      7
     ],
     "durationTime": 8199,
     "tags": [
@@ -1340,7 +1436,8 @@
     "isFeatured": true,
     "teacher": "Hoàng Thị F",
     "category": "Hóa",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2024-10-26T18:43:07.458390"
   },
   {
     "id": 46,
@@ -1357,8 +1454,12 @@
     "enrollment": 2118,
     "createdAt": "2024-11-03T18:43:07.458421",
     "lessons": [
-      6,
-      4
+      1,
+      4,
+      9,
+      8,
+      5,
+      2
     ],
     "durationTime": 9303,
     "tags": [
@@ -1369,7 +1470,8 @@
     "isFeatured": true,
     "teacher": "Lê Văn E",
     "category": "Văn",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2024-11-17T18:43:07.458421"
   },
   {
     "id": 47,
@@ -1386,9 +1488,12 @@
     "enrollment": 2260,
     "createdAt": "2024-09-03T18:43:07.458441",
     "lessons": [
+      9,
+      2,
       5,
-      4,
-      6
+      7,
+      10,
+      3
     ],
     "durationTime": 5834,
     "tags": [
@@ -1399,7 +1504,8 @@
     "isFeatured": true,
     "teacher": "Nguyễn Văn A",
     "category": "Anh",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2024-10-07T18:43:07.458441"
   },
   {
     "id": 48,
@@ -1416,8 +1522,9 @@
     "enrollment": 2605,
     "createdAt": "2025-04-22T18:43:07.458457",
     "lessons": [
-      5,
-      4
+      9,
+      2,
+      1
     ],
     "durationTime": 2382,
     "tags": [
@@ -1428,7 +1535,8 @@
     "isFeatured": false,
     "teacher": "Hoàng Thị F",
     "category": "Anh",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2025-06-12T18:43:07.458457"
   },
   {
     "id": 49,
@@ -1445,10 +1553,11 @@
     "enrollment": 840,
     "createdAt": "2025-07-01T18:43:07.458469",
     "lessons": [
-      1,
-      5,
-      6,
-      2
+      3,
+      8,
+      9,
+      10,
+      6
     ],
     "durationTime": 7023,
     "tags": [
@@ -1458,7 +1567,8 @@
     "isFeatured": true,
     "teacher": "Phạm Văn C",
     "category": "Hóa",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2025-08-11T18:43:07.458469"
   },
   {
     "id": 50,
@@ -1475,8 +1585,11 @@
     "enrollment": 1788,
     "createdAt": "2024-12-31T18:43:07.458484",
     "lessons": [
+      4,
+      2,
+      5,
       1,
-      4
+      8
     ],
     "durationTime": 13352,
     "tags": [
@@ -1487,7 +1600,8 @@
     "isFeatured": true,
     "teacher": "Vũ Văn I",
     "category": "Sinh",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2025-01-14T18:43:07.458484"
   },
   {
     "id": 51,
@@ -1504,10 +1618,11 @@
     "enrollment": 2371,
     "createdAt": "2025-03-17T18:43:07.458509",
     "lessons": [
-      4,
-      1,
-      6,
-      5
+      5,
+      9,
+      3,
+      2,
+      8
     ],
     "durationTime": 8175,
     "tags": [
@@ -1517,7 +1632,8 @@
     "isFeatured": true,
     "teacher": "Ngô Thị H",
     "category": "Anh",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2025-03-27T18:43:07.458509"
   },
   {
     "id": 52,
@@ -1534,9 +1650,8 @@
     "enrollment": 1370,
     "createdAt": "2024-09-21T18:43:07.458528",
     "lessons": [
-      4,
-      1,
-      6,
+      8,
+      3,
       2
     ],
     "durationTime": 11576,
@@ -1549,7 +1664,8 @@
     "isFeatured": true,
     "teacher": "Ngô Thị H",
     "category": "Hóa",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2024-10-27T18:43:07.458528"
   },
   {
     "id": 53,
@@ -1566,10 +1682,12 @@
     "enrollment": 1736,
     "createdAt": "2025-05-24T18:43:07.458541",
     "lessons": [
-      4,
-      5,
+      7,
       6,
-      2
+      9,
+      2,
+      4,
+      1
     ],
     "durationTime": 15504,
     "tags": [
@@ -1581,7 +1699,8 @@
     "isFeatured": true,
     "teacher": "Vũ Văn I",
     "category": "Hóa",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2025-07-12T18:43:07.458541"
   },
   {
     "id": 54,
@@ -1598,6 +1717,10 @@
     "enrollment": 1659,
     "createdAt": "2025-03-26T18:43:07.458555",
     "lessons": [
+      7,
+      4,
+      5,
+      9,
       2,
       1
     ],
@@ -1609,7 +1732,8 @@
     "isFeatured": true,
     "teacher": "Phạm Văn C",
     "category": "Sinh",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2025-05-21T18:43:07.458555"
   },
   {
     "id": 55,
@@ -1626,10 +1750,9 @@
     "enrollment": 1833,
     "createdAt": "2024-09-20T18:43:07.458575",
     "lessons": [
-      4,
-      6,
       2,
-      5
+      7,
+      9
     ],
     "durationTime": 4903,
     "tags": [
@@ -1640,7 +1763,8 @@
     "isFeatured": false,
     "teacher": "Hoàng Thị F",
     "category": "Anh",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2024-10-19T18:43:07.458575"
   },
   {
     "id": 56,
@@ -1657,9 +1781,10 @@
     "enrollment": 237,
     "createdAt": "2025-02-15T18:43:07.458594",
     "lessons": [
-      4,
-      2,
-      6
+      9,
+      8,
+      5,
+      7
     ],
     "durationTime": 8593,
     "tags": [
@@ -1669,7 +1794,8 @@
     "isFeatured": true,
     "teacher": "Nguyễn Thị B",
     "category": "Lý",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2025-04-07T18:43:07.458594"
   },
   {
     "id": 57,
@@ -1686,9 +1812,8 @@
     "enrollment": 1636,
     "createdAt": "2025-07-06T18:43:07.458608",
     "lessons": [
-      4,
-      5,
-      6
+      1,
+      4
     ],
     "durationTime": 8698,
     "tags": [
@@ -1698,7 +1823,8 @@
     "isFeatured": true,
     "teacher": "Nguyễn Thị B",
     "category": "Sinh",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2025-09-01T18:43:07.458608"
   },
   {
     "id": 58,
@@ -1715,10 +1841,11 @@
     "enrollment": 52,
     "createdAt": "2024-10-16T18:43:07.458624",
     "lessons": [
-      6,
-      4,
+      10,
+      8,
+      5,
       1,
-      5
+      7
     ],
     "durationTime": 16422,
     "tags": [
@@ -1730,7 +1857,8 @@
     "isFeatured": true,
     "teacher": "Lê Văn E",
     "category": "Anh",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2024-10-27T18:43:07.458624"
   },
   {
     "id": 59,
@@ -1747,9 +1875,12 @@
     "enrollment": 946,
     "createdAt": "2025-06-23T18:43:07.458637",
     "lessons": [
+      5,
+      7,
+      1,
       6,
-      2,
-      1
+      10,
+      9
     ],
     "durationTime": 13762,
     "tags": [
@@ -1760,7 +1891,8 @@
     "isFeatured": true,
     "teacher": "Nguyễn Văn A",
     "category": "Lý",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2025-07-28T18:43:07.458637"
   },
   {
     "id": 60,
@@ -1777,9 +1909,8 @@
     "enrollment": 2922,
     "createdAt": "2024-07-30T18:43:07.458650",
     "lessons": [
-      2,
-      6,
-      4
+      4,
+      3
     ],
     "durationTime": 17774,
     "tags": [
@@ -1789,7 +1920,8 @@
     "isFeatured": true,
     "teacher": "Đặng Văn G",
     "category": "Toán",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2024-08-04T18:43:07.458650"
   },
   {
     "id": 61,
@@ -1806,10 +1938,11 @@
     "enrollment": 1602,
     "createdAt": "2024-07-24T18:43:07.458663",
     "lessons": [
-      4,
-      1,
-      2,
-      6
+      6,
+      8,
+      5,
+      3,
+      10
     ],
     "durationTime": 13646,
     "tags": [
@@ -1819,7 +1952,8 @@
     "isFeatured": false,
     "teacher": "Phạm Văn C",
     "category": "Hóa",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2024-09-16T18:43:07.458663"
   },
   {
     "id": 62,
@@ -1836,8 +1970,8 @@
     "enrollment": 232,
     "createdAt": "2024-11-04T18:43:07.458676",
     "lessons": [
-      1,
-      4
+      10,
+      3
     ],
     "durationTime": 6407,
     "tags": [
@@ -1848,7 +1982,8 @@
     "isFeatured": true,
     "teacher": "Lê Văn E",
     "category": "Toán",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2024-12-08T18:43:07.458676"
   },
   {
     "id": 63,
@@ -1865,10 +2000,8 @@
     "enrollment": 1193,
     "createdAt": "2025-01-18T18:43:07.458688",
     "lessons": [
-      5,
-      6,
-      1,
-      4
+      8,
+      5
     ],
     "durationTime": 15735,
     "tags": [
@@ -1879,7 +2012,8 @@
     "isFeatured": true,
     "teacher": "Hoàng Thị F",
     "category": "Văn",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2025-02-07T18:43:07.458688"
   },
   {
     "id": 64,
@@ -1898,8 +2032,7 @@
     "lessons": [
       6,
       4,
-      1,
-      2
+      3
     ],
     "durationTime": 15616,
     "tags": [
@@ -1910,7 +2043,8 @@
     "isFeatured": true,
     "teacher": "Vũ Văn I",
     "category": "Hóa",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2024-11-29T18:43:07.458701"
   },
   {
     "id": 65,
@@ -1927,8 +2061,8 @@
     "enrollment": 1365,
     "createdAt": "2024-12-13T18:43:07.458713",
     "lessons": [
-      2,
-      1
+      8,
+      5
     ],
     "durationTime": 11552,
     "tags": [
@@ -1939,7 +2073,8 @@
     "isFeatured": true,
     "teacher": "Đặng Văn G",
     "category": "Văn",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2025-01-02T18:43:07.458713"
   },
   {
     "id": 66,
@@ -1956,10 +2091,8 @@
     "enrollment": 344,
     "createdAt": "2024-11-06T18:43:07.458726",
     "lessons": [
-      5,
-      1,
-      2,
-      6
+      10,
+      4
     ],
     "durationTime": 10301,
     "tags": [
@@ -1970,7 +2103,8 @@
     "isFeatured": false,
     "teacher": "Ngô Thị H",
     "category": "Toán",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2024-12-16T18:43:07.458726"
   },
   {
     "id": 67,
@@ -1987,9 +2121,8 @@
     "enrollment": 107,
     "createdAt": "2024-08-25T18:43:07.458742",
     "lessons": [
-      6,
-      5,
-      4
+      8,
+      3
     ],
     "durationTime": 2465,
     "tags": [
@@ -2001,7 +2134,8 @@
     "isFeatured": true,
     "teacher": "Đinh Thị J",
     "category": "Văn",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2024-09-01T18:43:07.458742"
   },
   {
     "id": 68,
@@ -2018,10 +2152,12 @@
     "enrollment": 1030,
     "createdAt": "2024-12-01T18:43:07.458762",
     "lessons": [
+      9,
+      2,
+      3,
       4,
-      1,
-      6,
-      5
+      5,
+      6
     ],
     "durationTime": 3610,
     "tags": [
@@ -2031,7 +2167,8 @@
     "isFeatured": false,
     "teacher": "Vũ Văn I",
     "category": "Toán",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2025-01-05T18:43:07.458762"
   },
   {
     "id": 69,
@@ -2048,10 +2185,10 @@
     "enrollment": 1091,
     "createdAt": "2025-01-13T18:43:07.458780",
     "lessons": [
-      4,
-      1,
+      6,
+      2,
       5,
-      6
+      7
     ],
     "durationTime": 4886,
     "tags": [
@@ -2063,7 +2200,8 @@
     "isFeatured": true,
     "teacher": "Đinh Thị J",
     "category": "Văn",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2025-03-05T18:43:07.458780"
   },
   {
     "id": 70,
@@ -2080,9 +2218,8 @@
     "enrollment": 2629,
     "createdAt": "2025-05-12T18:43:07.458794",
     "lessons": [
-      4,
-      2,
-      1
+      5,
+      2
     ],
     "durationTime": 13212,
     "tags": [
@@ -2093,7 +2230,8 @@
     "isFeatured": false,
     "teacher": "Nguyễn Văn A",
     "category": "Hóa",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2025-06-11T18:43:07.458794"
   },
   {
     "id": 71,
@@ -2110,8 +2248,11 @@
     "enrollment": 128,
     "createdAt": "2025-04-07T18:43:07.458805",
     "lessons": [
+      8,
       5,
-      4
+      2,
+      7,
+      3
     ],
     "durationTime": 4737,
     "tags": [
@@ -2122,7 +2263,8 @@
     "isFeatured": false,
     "teacher": "Phạm Văn C",
     "category": "Anh",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2025-04-27T18:43:07.458805"
   },
   {
     "id": 72,
@@ -2139,9 +2281,9 @@
     "enrollment": 2974,
     "createdAt": "2024-12-11T18:43:07.458819",
     "lessons": [
-      2,
+      7,
       1,
-      4
+      10
     ],
     "durationTime": 10188,
     "tags": [
@@ -2153,7 +2295,8 @@
     "isFeatured": false,
     "teacher": "Vũ Văn I",
     "category": "Văn",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2024-12-21T18:43:07.458819"
   },
   {
     "id": 73,
@@ -2170,9 +2313,10 @@
     "enrollment": 1354,
     "createdAt": "2025-04-22T18:43:07.458831",
     "lessons": [
-      4,
       1,
-      6
+      3,
+      7,
+      9
     ],
     "durationTime": 17384,
     "tags": [
@@ -2182,7 +2326,8 @@
     "isFeatured": true,
     "teacher": "Đinh Thị J",
     "category": "Sinh",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2025-05-09T18:43:07.458831"
   },
   {
     "id": 74,
@@ -2199,9 +2344,12 @@
     "enrollment": 1159,
     "createdAt": "2025-06-15T18:43:07.458844",
     "lessons": [
-      6,
+      3,
       1,
-      2
+      10,
+      4,
+      5,
+      8
     ],
     "durationTime": 6400,
     "tags": [
@@ -2213,7 +2361,8 @@
     "isFeatured": true,
     "teacher": "Phạm Văn C",
     "category": "Sinh",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2025-07-28T18:43:07.458844"
   },
   {
     "id": 75,
@@ -2230,10 +2379,11 @@
     "enrollment": 2452,
     "createdAt": "2025-05-29T18:43:07.458858",
     "lessons": [
+      9,
+      8,
+      10,
       1,
-      6,
-      2,
-      4
+      7
     ],
     "durationTime": 7745,
     "tags": [
@@ -2244,7 +2394,8 @@
     "isFeatured": true,
     "teacher": "Đặng Văn G",
     "category": "Anh",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2025-06-20T18:43:07.458858"
   },
   {
     "id": 76,
@@ -2261,8 +2412,12 @@
     "enrollment": 1397,
     "createdAt": "2024-09-13T18:43:07.458870",
     "lessons": [
-      4,
-      1
+      1,
+      6,
+      2,
+      5,
+      7,
+      9
     ],
     "durationTime": 11032,
     "tags": [
@@ -2272,7 +2427,8 @@
     "isFeatured": false,
     "teacher": "Ngô Thị H",
     "category": "Lý",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2024-10-14T18:43:07.458870"
   },
   {
     "id": 77,
@@ -2289,10 +2445,10 @@
     "enrollment": 1452,
     "createdAt": "2025-03-10T18:43:07.458882",
     "lessons": [
-      5,
       2,
+      8,
       1,
-      6
+      4
     ],
     "durationTime": 5880,
     "tags": [
@@ -2303,7 +2459,8 @@
     "isFeatured": true,
     "teacher": "Nguyễn Thị B",
     "category": "Lý",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2025-03-19T18:43:07.458882"
   },
   {
     "id": 78,
@@ -2320,10 +2477,11 @@
     "enrollment": 2871,
     "createdAt": "2024-11-30T18:43:07.458895",
     "lessons": [
-      4,
       1,
-      2,
-      6
+      6,
+      10,
+      7,
+      9
     ],
     "durationTime": 15272,
     "tags": [
@@ -2334,7 +2492,8 @@
     "isFeatured": true,
     "teacher": "Vũ Văn I",
     "category": "Toán",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2025-01-18T18:43:07.458895"
   },
   {
     "id": 79,
@@ -2351,10 +2510,8 @@
     "enrollment": 1787,
     "createdAt": "2024-07-16T18:43:07.458907",
     "lessons": [
-      1,
-      2,
-      6,
-      4
+      8,
+      2
     ],
     "durationTime": 9386,
     "tags": [
@@ -2364,7 +2521,8 @@
     "isFeatured": true,
     "teacher": "Vũ Văn I",
     "category": "Anh",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2024-07-22T18:43:07.458907"
   },
   {
     "id": 80,
@@ -2381,10 +2539,9 @@
     "enrollment": 1948,
     "createdAt": "2025-03-22T18:43:07.458919",
     "lessons": [
-      6,
-      4,
-      5,
-      1
+      7,
+      9,
+      6
     ],
     "durationTime": 13128,
     "tags": [
@@ -2395,7 +2552,8 @@
     "isFeatured": false,
     "teacher": "Nguyễn Thị B",
     "category": "Hóa",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2025-05-12T18:43:07.458919"
   },
   {
     "id": 81,
@@ -2412,9 +2570,11 @@
     "enrollment": 554,
     "createdAt": "2025-06-29T18:43:07.458935",
     "lessons": [
+      1,
       5,
-      6,
-      2
+      2,
+      3,
+      9
     ],
     "durationTime": 4313,
     "tags": [
@@ -2426,7 +2586,8 @@
     "isFeatured": true,
     "teacher": "Trần Thị D",
     "category": "Anh",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2025-07-04T18:43:07.458935"
   },
   {
     "id": 82,
@@ -2443,8 +2604,8 @@
     "enrollment": 1432,
     "createdAt": "2025-06-17T18:43:07.458953",
     "lessons": [
-      5,
-      1
+      9,
+      8
     ],
     "durationTime": 12913,
     "tags": [
@@ -2454,7 +2615,8 @@
     "isFeatured": false,
     "teacher": "Đặng Văn G",
     "category": "Sinh",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2025-07-23T18:43:07.458953"
   },
   {
     "id": 83,
@@ -2471,10 +2633,8 @@
     "enrollment": 1511,
     "createdAt": "2024-08-10T18:43:07.458966",
     "lessons": [
-      2,
-      4,
-      5,
-      1
+      1,
+      10
     ],
     "durationTime": 11249,
     "tags": [
@@ -2485,7 +2645,8 @@
     "isFeatured": false,
     "teacher": "Hoàng Thị F",
     "category": "Anh",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2024-08-19T18:43:07.458966"
   },
   {
     "id": 84,
@@ -2502,7 +2663,9 @@
     "enrollment": 854,
     "createdAt": "2025-02-04T18:43:07.458978",
     "lessons": [
-      6,
+      10,
+      1,
+      5,
       2
     ],
     "durationTime": 9546,
@@ -2515,7 +2678,8 @@
     "isFeatured": false,
     "teacher": "Hoàng Thị F",
     "category": "Sinh",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2025-02-18T18:43:07.458978"
   },
   {
     "id": 85,
@@ -2532,10 +2696,12 @@
     "enrollment": 2296,
     "createdAt": "2024-09-28T18:43:07.458991",
     "lessons": [
+      8,
+      3,
+      7,
       4,
       1,
-      5,
-      6
+      10
     ],
     "durationTime": 4353,
     "tags": [
@@ -2546,7 +2712,8 @@
     "isFeatured": false,
     "teacher": "Ngô Thị H",
     "category": "Toán",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2024-10-25T18:43:07.458991"
   },
   {
     "id": 86,
@@ -2563,9 +2730,9 @@
     "enrollment": 2152,
     "createdAt": "2024-08-17T18:43:07.459003",
     "lessons": [
-      2,
-      4,
-      1
+      5,
+      6,
+      10
     ],
     "durationTime": 6351,
     "tags": [
@@ -2577,7 +2744,8 @@
     "isFeatured": true,
     "teacher": "Nguyễn Văn A",
     "category": "Lý",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2024-09-30T18:43:07.459003"
   },
   {
     "id": 87,
@@ -2594,8 +2762,11 @@
     "enrollment": 2287,
     "createdAt": "2024-11-22T18:43:07.459022",
     "lessons": [
-      2,
-      1
+      3,
+      4,
+      10,
+      6,
+      5
     ],
     "durationTime": 15439,
     "tags": [
@@ -2607,7 +2778,8 @@
     "isFeatured": true,
     "teacher": "Nguyễn Thị B",
     "category": "Toán",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2024-12-27T18:43:07.459022"
   },
   {
     "id": 88,
@@ -2624,10 +2796,11 @@
     "enrollment": 2002,
     "createdAt": "2024-10-12T18:43:07.459037",
     "lessons": [
+      7,
+      3,
+      4,
       1,
-      5,
-      2,
-      4
+      10
     ],
     "durationTime": 7345,
     "tags": [
@@ -2637,7 +2810,8 @@
     "isFeatured": true,
     "teacher": "Lê Văn E",
     "category": "Toán",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2024-12-10T18:43:07.459037"
   },
   {
     "id": 89,
@@ -2654,10 +2828,10 @@
     "enrollment": 1349,
     "createdAt": "2025-01-16T18:43:07.459049",
     "lessons": [
-      6,
-      2,
-      4,
-      1
+      1,
+      3,
+      5,
+      7
     ],
     "durationTime": 7481,
     "tags": [
@@ -2667,7 +2841,8 @@
     "isFeatured": false,
     "teacher": "Trần Thị D",
     "category": "Toán",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2025-02-12T18:43:07.459049"
   },
   {
     "id": 90,
@@ -2684,10 +2859,8 @@
     "enrollment": 2260,
     "createdAt": "2025-01-11T18:43:07.459062",
     "lessons": [
-      1,
-      6,
-      2,
-      4
+      5,
+      1
     ],
     "durationTime": 14720,
     "tags": [
@@ -2698,7 +2871,8 @@
     "isFeatured": true,
     "teacher": "Nguyễn Văn A",
     "category": "Lý",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2025-02-28T18:43:07.459062"
   },
   {
     "id": 91,
@@ -2716,8 +2890,7 @@
     "createdAt": "2024-10-11T18:43:07.459074",
     "lessons": [
       6,
-      5,
-      2
+      10
     ],
     "durationTime": 9066,
     "tags": [
@@ -2727,7 +2900,8 @@
     "isFeatured": false,
     "teacher": "Đinh Thị J",
     "category": "Sinh",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2024-10-28T18:43:07.459074"
   },
   {
     "id": 92,
@@ -2744,9 +2918,9 @@
     "enrollment": 2471,
     "createdAt": "2025-03-30T18:43:07.459085",
     "lessons": [
-      2,
       6,
-      4
+      8,
+      7
     ],
     "durationTime": 11116,
     "tags": [
@@ -2758,7 +2932,8 @@
     "isFeatured": true,
     "teacher": "Hoàng Thị F",
     "category": "Hóa",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2025-04-07T18:43:07.459085"
   },
   {
     "id": 93,
@@ -2775,9 +2950,8 @@
     "enrollment": 456,
     "createdAt": "2024-09-28T18:43:07.459098",
     "lessons": [
-      2,
-      4,
-      1
+      9,
+      8
     ],
     "durationTime": 14838,
     "tags": [
@@ -2788,7 +2962,8 @@
     "isFeatured": false,
     "teacher": "Nguyễn Thị B",
     "category": "Sinh",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2024-11-19T18:43:07.459098"
   },
   {
     "id": 94,
@@ -2806,7 +2981,10 @@
     "createdAt": "2025-02-12T18:43:07.459110",
     "lessons": [
       5,
-      4
+      1,
+      10,
+      7,
+      8
     ],
     "durationTime": 17946,
     "tags": [
@@ -2817,7 +2995,8 @@
     "isFeatured": true,
     "teacher": "Đinh Thị J",
     "category": "Anh",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2025-03-15T18:43:07.459110"
   },
   {
     "id": 95,
@@ -2834,9 +3013,12 @@
     "enrollment": 905,
     "createdAt": "2024-12-08T18:43:07.459122",
     "lessons": [
+      5,
+      3,
       6,
+      2,
       4,
-      2
+      10
     ],
     "durationTime": 9515,
     "tags": [
@@ -2846,7 +3028,8 @@
     "isFeatured": false,
     "teacher": "Đặng Văn G",
     "category": "Anh",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2025-01-31T18:43:07.459122"
   },
   {
     "id": 96,
@@ -2863,9 +3046,8 @@
     "enrollment": 2145,
     "createdAt": "2025-05-23T18:43:07.459134",
     "lessons": [
-      4,
-      5,
-      6,
+      10,
+      3,
       2
     ],
     "durationTime": 14714,
@@ -2878,7 +3060,8 @@
     "isFeatured": false,
     "teacher": "Trần Thị D",
     "category": "Hóa",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2025-05-24T18:43:07.459134"
   },
   {
     "id": 97,
@@ -2896,8 +3079,9 @@
     "createdAt": "2024-10-18T18:43:07.459147",
     "lessons": [
       2,
+      8,
       5,
-      1
+      7
     ],
     "durationTime": 4387,
     "tags": [
@@ -2909,7 +3093,8 @@
     "isFeatured": false,
     "teacher": "Vũ Văn I",
     "category": "Anh",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2024-11-04T18:43:07.459147"
   },
   {
     "id": 98,
@@ -2926,8 +3111,9 @@
     "enrollment": 520,
     "createdAt": "2025-03-19T18:43:07.459163",
     "lessons": [
-      2,
-      4
+      8,
+      5,
+      1
     ],
     "durationTime": 11373,
     "tags": [
@@ -2939,7 +3125,8 @@
     "isFeatured": true,
     "teacher": "Hoàng Thị F",
     "category": "Hóa",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2025-05-14T18:43:07.459163"
   },
   {
     "id": 99,
@@ -2956,9 +3143,12 @@
     "enrollment": 2027,
     "createdAt": "2024-12-12T18:43:07.459176",
     "lessons": [
-      4,
       2,
-      5
+      5,
+      7,
+      9,
+      4,
+      3
     ],
     "durationTime": 4126,
     "tags": [
@@ -2968,7 +3158,8 @@
     "isFeatured": false,
     "teacher": "Nguyễn Thị B",
     "category": "Sinh",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2025-01-20T18:43:07.459176"
   },
   {
     "id": 100,
@@ -2985,10 +3176,9 @@
     "enrollment": 708,
     "createdAt": "2024-07-12T18:43:07.459196",
     "lessons": [
-      4,
-      1,
-      2,
-      6
+      6,
+      5,
+      1
     ],
     "durationTime": 11088,
     "tags": [
@@ -2999,7 +3189,8 @@
     "isFeatured": true,
     "teacher": "Ngô Thị H",
     "category": "Văn",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2024-08-01T18:43:07.459196"
   },
   {
     "id": 101,
@@ -3016,8 +3207,12 @@
     "enrollment": 2436,
     "createdAt": "2025-03-29T18:43:07.459215",
     "lessons": [
+      4,
+      2,
+      1,
+      6,
       5,
-      4
+      7
     ],
     "durationTime": 15236,
     "tags": [
@@ -3029,7 +3224,8 @@
     "isFeatured": false,
     "teacher": "Nguyễn Văn A",
     "category": "Toán",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2025-04-09T18:43:07.459215"
   },
   {
     "id": 102,
@@ -3046,9 +3242,9 @@
     "enrollment": 2744,
     "createdAt": "2024-08-31T18:43:07.459229",
     "lessons": [
-      2,
-      6,
-      1
+      8,
+      4,
+      2
     ],
     "durationTime": 16131,
     "tags": [
@@ -3058,7 +3254,8 @@
     "isFeatured": true,
     "teacher": "Nguyễn Văn A",
     "category": "Anh",
-    "lessonsCount": 3
+    "lessonsCount": 3,
+    "updatedAt": "2024-10-13T18:43:07.459229"
   },
   {
     "id": 103,
@@ -3075,8 +3272,11 @@
     "enrollment": 2950,
     "createdAt": "2024-07-30T18:43:07.459241",
     "lessons": [
-      1,
-      2
+      4,
+      5,
+      9,
+      2,
+      6
     ],
     "durationTime": 5417,
     "tags": [
@@ -3088,7 +3288,8 @@
     "isFeatured": false,
     "teacher": "Trần Thị D",
     "category": "Lý",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2024-09-28T18:43:07.459241"
   },
   {
     "id": 104,
@@ -3105,10 +3306,12 @@
     "enrollment": 1910,
     "createdAt": "2024-10-25T18:43:07.459260",
     "lessons": [
-      6,
-      4,
+      1,
       2,
-      1
+      5,
+      6,
+      3,
+      4
     ],
     "durationTime": 10965,
     "tags": [
@@ -3119,7 +3322,8 @@
     "isFeatured": false,
     "teacher": "Nguyễn Thị B",
     "category": "Sinh",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2024-12-03T18:43:07.459260"
   },
   {
     "id": 105,
@@ -3136,8 +3340,12 @@
     "enrollment": 1000,
     "createdAt": "2024-12-09T18:43:07.459276",
     "lessons": [
+      6,
+      3,
       1,
-      4
+      9,
+      2,
+      10
     ],
     "durationTime": 10036,
     "tags": [
@@ -3147,7 +3355,8 @@
     "isFeatured": true,
     "teacher": "Lê Văn E",
     "category": "Sinh",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2024-12-22T18:43:07.459276"
   },
   {
     "id": 106,
@@ -3164,10 +3373,9 @@
     "enrollment": 311,
     "createdAt": "2025-07-08T18:43:07.459290",
     "lessons": [
-      1,
-      6,
-      4,
-      2
+      10,
+      8,
+      1
     ],
     "durationTime": 7294,
     "tags": [
@@ -3179,7 +3387,8 @@
     "isFeatured": true,
     "teacher": "Phạm Văn C",
     "category": "Toán",
-    "lessonsCount": 4
+    "lessonsCount": 4,
+    "updatedAt": "2025-08-24T18:43:07.459290"
   },
   {
     "id": 107,
@@ -3196,8 +3405,12 @@
     "enrollment": 1577,
     "createdAt": "2024-11-08T18:43:07.459307",
     "lessons": [
-      4,
-      5
+      9,
+      2,
+      5,
+      3,
+      7,
+      1
     ],
     "durationTime": 16647,
     "tags": [
@@ -3207,6 +3420,7 @@
     "isFeatured": false,
     "teacher": "Hoàng Thị F",
     "category": "Lý",
-    "lessonsCount": 2
+    "lessonsCount": 2,
+    "updatedAt": "2024-12-07T18:43:07.459307"
   }
 ]

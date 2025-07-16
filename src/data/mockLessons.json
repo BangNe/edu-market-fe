@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Giới thiệu",
+    "duration": 1264
+  },
+  {
+    "id": 2,
+    "name": "Lý thuyết cơ bản",
+    "duration": 480
+  },
+  {
+    "id": 3,
+    "name": "Bài tập thực hành",
+    "duration": 1761
+  },
+  {
+    "id": 4,
+    "name": "Phân tích ví dụ",
+    "duration": 706
+  },
+  {
+    "id": 5,
+    "name": "Tổng kết chương",
+    "duration": 1085
+  },
+  {
+    "id": 6,
+    "name": "Kiểm tra nhanh",
+    "duration": 747
+  },
+  {
+    "id": 7,
+    "name": "Mở rộng kiến thức",
+    "duration": 709
+  },
+  {
+    "id": 8,
+    "name": "Luyện tập nâng cao",
+    "duration": 311
+  },
+  {
+    "id": 9,
+    "name": "Đánh giá kỹ năng",
+    "duration": 1723
+  },
+  {
+    "id": 10,
+    "name": "Ôn tập và củng cố",
+    "duration": 528
+  }
+]
